@@ -6,4 +6,3 @@ Tips and solutions for all the courses I enrolled in Coursera.
 - Initiation a la programmation (en Java)
 - Pensamiento Algoritmico
 - An Introduction to Interactive Programming in Python
-- 
