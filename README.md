@@ -1,4 +1,4 @@
-coursera
+### Coursera - my courses
 ========
 
 Tips and solutions for all the courses I enrolled in Coursera.
@@ -6,7 +6,6 @@ Tips and solutions for all the courses I enrolled in Coursera.
 * Initiation a la programmation (en Java)
 * Pensamiento Algoritmico
 * An Introduction to Interactive Programming in Python
-** cenas
 * Data Science - Specialization
-- The Data Scientist's Toolbox
-- R Programming
+-- The Data Scientist's Toolbox
+-- R Programming
