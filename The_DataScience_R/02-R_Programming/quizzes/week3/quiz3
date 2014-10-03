@@ -1,0 +1,21 @@
+
+# factor vector with all the especies
+species <- iris$Species
+
+# dataset divided by species
+s <- split(iris, species)
+
+# subset to get specie virginica, column Sepal.Length 
+sub = subset(s$virginica, select = Sepal.Length)
+
+# now I can get the mean of Sepal.Length 
+apply(sub, 2, mean)
+
+Sepal.Length 
+apply(iris[, 1:4], 2, mean)
+
+
+> library(datasets)
+> data(mtcars)
+> ?mtcars
+> tapply(mtcars$mpg, mtcars$cyl, mean)
