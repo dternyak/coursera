@@ -1,0 +1,2470 @@
+1
+00:00:04,310 --> 00:00:07,160
+Today we are going to talk about Exploring
+Real Market Needs.
+
+2
+00:00:07,160 --> 00:00:09,670
+And I want to emphasis the term real here
+and
+
+3
+00:00:09,670 --> 00:00:12,150
+that often times that have students that
+have an idea they
+
+4
+00:00:12,150 --> 00:00:14,850
+came up with they dreamt about it, they
+thought about it
+
+5
+00:00:14,850 --> 00:00:17,840
+in the shower it just was a kind of an
+Piffany.
+
+6
+00:00:17,840 --> 00:00:22,120
+But it may not be a real need and so with
+that we are going to look at today.
+
+7
+00:00:22,120 --> 00:00:25,950
+Is how you begin to try and segment the
+things that are real market
+
+8
+00:00:25,950 --> 00:00:29,320
+needs from the things that might be novel
+ideas but perhaps there's not a
+
+9
+00:00:29,320 --> 00:00:30,530
+market opportunity for it.
+
+10
+00:00:31,740 --> 00:00:35,020
+Specifically, when we look at building a
+successful company.
+
+11
+00:00:35,020 --> 00:00:38,140
+We want to introduce a product or service
+that, satisfies
+
+12
+00:00:38,140 --> 00:00:42,330
+customer needs or wants in a better way
+than competitors.
+
+13
+00:00:42,330 --> 00:00:46,310
+And again, we'll use the terms needs and
+wants somewhat interchangeably.
+
+14
+00:00:46,310 --> 00:00:49,710
+Many of us buy more of what we want versus
+what we need.
+
+15
+00:00:49,710 --> 00:00:52,540
+But there's also a lot of interchange
+within that.
+
+16
+00:00:52,540 --> 00:00:54,390
+so in that way again, when we talk about
+
+17
+00:00:54,390 --> 00:00:58,570
+needs and wants we're kind of combing in
+the terms and using them synonymously.
+
+18
+00:00:59,770 --> 00:01:04,150
+The other piece of the equation when we
+determine what to buy is that of price.
+
+19
+00:01:04,150 --> 00:01:05,620
+And it's not necessarily the cheapest
+
+20
+00:01:05,620 --> 00:01:08,390
+price, it's not necessarily the highest
+price.
+
+21
+00:01:08,390 --> 00:01:13,260
+But it's a price that the company has set
+that's something that makes sense for its
+
+22
+00:01:13,260 --> 00:01:16,270
+business model and the value proposition
+for it's
+
+23
+00:01:16,270 --> 00:01:18,870
+customers and it's needs and wants that
+they're fulfilling.
+
+24
+00:01:18,870 --> 00:01:19,600
+So in that way
+
+25
+00:01:19,600 --> 00:01:22,120
+when we being to think about real market
+needs, we're going to look at
+
+26
+00:01:22,120 --> 00:01:26,040
+both sides of this of both the need or the
+want of the customer.
+
+27
+00:01:26,040 --> 00:01:28,360
+But as well as how do you price things
+appropriately.
+
+28
+00:01:29,640 --> 00:01:32,390
+So in that way when we think about
+understanding needs
+
+29
+00:01:32,390 --> 00:01:34,860
+it's a question of is there a problem
+that's unsolved.
+
+30
+00:01:34,860 --> 00:01:37,945
+And we've talked about this company square
+space,
+
+31
+00:01:37,945 --> 00:01:40,600
+[SOUND]
+
+32
+00:01:40,600 --> 00:01:44,430
+that has the hundred employees that is
+valued at over $100 million.
+
+33
+00:01:46,330 --> 00:01:51,130
+And it came with, again, a computer
+science student being
+
+34
+00:01:51,130 --> 00:01:55,930
+unhappy with the existing web publishing
+tools that were out there.
+
+35
+00:01:55,930 --> 00:01:58,180
+And he built something, not with the
+intent of starting
+
+36
+00:01:58,180 --> 00:02:02,480
+a company, he built something to help him
+build websites easy.
+
+37
+00:02:04,120 --> 00:02:06,040
+He had some ideas and some thoughts on
+creating
+
+38
+00:02:06,040 --> 00:02:07,650
+multiple websites.
+
+39
+00:02:07,650 --> 00:02:09,850
+He didn't want to do them all from
+scratch.
+
+40
+00:02:09,850 --> 00:02:13,590
+So he started building a series of tools
+that he could use.
+
+41
+00:02:14,900 --> 00:02:16,020
+He showed it to his friend.
+
+42
+00:02:17,200 --> 00:02:22,650
+Friend said, that's pretty cool.
+I'll pay you $500 for that.
+
+43
+00:02:22,650 --> 00:02:23,510
+What did he think then?
+
+44
+00:02:25,960 --> 00:02:28,410
+There might be other people that I can
+sell this to.
+
+45
+00:02:29,530 --> 00:02:31,738
+And so in that way I can solve his own
+problem.
+
+46
+00:02:31,738 --> 00:02:39,180
+Google, same thing, they did not sit down
+intending to start a company.
+
+47
+00:02:39,180 --> 00:02:42,660
+They didn't write a business plan
+intending to start a company.
+
+48
+00:02:42,660 --> 00:02:46,850
+They were students doing research, wanted
+
+49
+00:02:46,850 --> 00:02:51,080
+to have a more effective search
+technology,
+
+50
+00:02:51,080 --> 00:02:53,500
+built that for themselves.
+
+51
+00:02:53,500 --> 00:02:57,970
+Friends started using it, classmates
+started using it, campus started using it,
+
+52
+00:02:57,970 --> 00:03:03,740
+and then later, the thought was, we could
+build a business on this.
+
+53
+00:03:03,740 --> 00:03:06,460
+So again, solving your own problem can
+often be a starting point.
+
+54
+00:03:06,460 --> 00:03:08,600
+And again, thinking about a better way.
+
+55
+00:03:11,450 --> 00:03:14,610
+And there is some industries that, again,
+had not evolved for a long time.
+
+56
+00:03:14,610 --> 00:03:17,750
+The rental car market had not evolved for
+a long time.
+
+57
+00:03:18,910 --> 00:03:21,740
+Until the zip cars and, again, these other
+
+58
+00:03:21,740 --> 00:03:24,780
+aspects of being able to have a
+distributed
+
+59
+00:03:24,780 --> 00:03:31,150
+easy pick up drop off, low price, rent by
+the hour, instead of rent by the day.
+
+60
+00:03:32,200 --> 00:03:36,580
+If you need to go to the grocery store,
+you probably don't want to pay 24
+
+61
+00:03:36,580 --> 00:03:39,800
+hours of rental car pricing to do that.
+
+62
+00:03:39,800 --> 00:03:42,110
+You might want to pay and hour or two and
+
+63
+00:03:42,110 --> 00:03:44,149
+that's what zip car does, you pay by the
+hour.
+
+64
+00:03:48,220 --> 00:03:52,620
+And again pricing and we again use the
+word better pricing.
+
+65
+00:03:52,620 --> 00:03:55,070
+And not necessarily lower pricing.
+
+66
+00:03:55,070 --> 00:03:59,090
+Few of us will go into a store and say,
+I'm going
+
+67
+00:03:59,090 --> 00:04:03,820
+to buy the cheapest shampoo, the cheapest
+milk and the cheapest underwear.
+
+68
+00:04:05,110 --> 00:04:07,270
+We're looking at pricing.
+
+69
+00:04:07,270 --> 00:04:09,100
+We might not necessarily go in and say,
+oh,
+
+70
+00:04:09,100 --> 00:04:11,570
+I'm just going to buy the most expensive
+of everything.
+
+71
+00:04:11,570 --> 00:04:13,590
+But we think about what
+
+72
+00:04:13,590 --> 00:04:14,160
+do I like,
+
+73
+00:04:16,510 --> 00:04:20,840
+perhaps ingredients, we pay attention to
+the branding.
+
+74
+00:04:20,840 --> 00:04:22,020
+Do we like the colors?
+
+75
+00:04:22,020 --> 00:04:23,550
+Do we like the shape?
+
+76
+00:04:23,550 --> 00:04:29,330
+Do we like the feature and the function?
+And that influence is our decision, so
+
+77
+00:04:29,330 --> 00:04:35,160
+price influences but its all undo you'd
+necessarily decide on the cheapest.
+
+78
+00:04:35,160 --> 00:04:39,080
+So how do you see these needs and how to
+
+79
+00:04:39,080 --> 00:04:42,220
+do you recognize that and, and again its
+important to recognize
+
+80
+00:04:42,220 --> 00:04:44,060
+that being a little bit better is a start
+
+81
+00:04:44,060 --> 00:04:47,615
+up probably isn't enough, why is that the
+case?
+
+82
+00:04:47,615 --> 00:04:50,330
+If you like a brand, if you like a
+product, if
+
+83
+00:04:50,330 --> 00:04:52,950
+you like a piece of apparel, if you like a
+certain beverage.
+
+84
+00:05:00,740 --> 00:05:02,952
+What would make you switch?
+What would make you switch away?
+
+85
+00:05:02,952 --> 00:05:08,410
+>> Something that's, else is a similar,
+a similar product.
+
+86
+00:05:08,410 --> 00:05:12,785
+>> Okay.
+>> Getting better and it's, has better
+
+87
+00:05:12,785 --> 00:05:13,431
+[INAUDIBLE]
+
+88
+00:05:13,431 --> 00:05:13,643
+>> Okay.
+>>
+
+89
+00:05:13,643 --> 00:05:14,314
+[INAUDIBLE]
+
+90
+00:05:14,314 --> 00:05:17,900
+>> So there's something that's, you
+know, an improvement,
+
+91
+00:05:17,900 --> 00:05:20,570
+and a noticeable improvement over what you
+already have.
+
+92
+00:05:20,570 --> 00:05:23,620
+Typically if you are happy with what you
+already have it's going to take something
+
+93
+00:05:25,020 --> 00:05:28,330
+to really get you over the edge and they
+get you transition out of that.
+
+94
+00:05:28,330 --> 00:05:30,315
+But if its something you've never had
+before
+
+95
+00:05:30,315 --> 00:05:31,960
+[SOUND]
+
+96
+00:05:31,960 --> 00:05:35,400
+and this is where, again, what we're
+talking about with first mover advantages.
+
+97
+00:05:36,500 --> 00:05:38,720
+If it's something you've never had before,
+or if it's a new
+
+98
+00:05:38,720 --> 00:05:46,920
+problem that you've identified, you don't
+have to steal your competitors customers.
+
+99
+00:05:46,920 --> 00:05:56,373
+Everybody's looking for something to enter
+into the, a part of.
+
+100
+00:05:56,373 --> 00:06:03,830
+So, oftentimes in trying to get a feel for
+what's a real need, we look for problems.
+
+101
+00:06:03,830 --> 00:06:09,495
+We don't necessarily ask somebody, would
+you like a product that did this?
+
+102
+00:06:09,495 --> 00:06:10,985
+You're trying to get a sense of
+
+103
+00:06:10,985 --> 00:06:11,050
+[UNKNOWN]
+
+104
+00:06:11,050 --> 00:06:14,140
+for existing products or existing problems
+that are
+
+105
+00:06:14,140 --> 00:06:16,810
+out there, where you are having some
+issues.
+
+106
+00:06:18,440 --> 00:06:20,220
+So, there is a department on
+
+107
+00:06:20,220 --> 00:06:23,980
+campus, called The Fischell Department of
+Bioengineering.
+
+108
+00:06:23,980 --> 00:06:25,610
+There is a person named Robert Fischell.
+
+109
+00:06:26,780 --> 00:06:27,660
+He is an inventor.
+
+110
+00:06:29,140 --> 00:06:32,230
+Predominately in biomedical and medical
+devices.
+
+111
+00:06:32,230 --> 00:06:37,060
+And he goes to doctors, he goes to
+hospitals,
+
+112
+00:06:37,060 --> 00:06:43,140
+he goes to ER's, he ask doctor's what's
+your problem?
+
+113
+00:06:46,260 --> 00:06:50,090
+Why does he do that?
+>> See how he can help them?
+
+114
+00:06:50,090 --> 00:06:51,900
+>> See how he can help.
+
+115
+00:06:51,900 --> 00:06:55,540
+What procedures are you doing that you
+don't have the right equipment?
+
+116
+00:06:55,540 --> 00:06:58,080
+What types of measurements are you trying
+to do that you're not
+
+117
+00:06:58,080 --> 00:07:03,460
+getting a lot of accuracy, or a lot of
+reliability, in those measurements?
+
+118
+00:07:03,460 --> 00:07:07,160
+Are there things that you do on a regular
+basis that are awkward?
+
+119
+00:07:07,160 --> 00:07:09,540
+And I'm going to go home and invent
+something for you.
+
+120
+00:07:11,360 --> 00:07:15,480
+And he has, I think, upwards of 300
+patents.
+
+121
+00:07:18,200 --> 00:07:21,790
+So far he's contributed $31 million to the
+university.
+
+122
+00:07:24,160 --> 00:07:26,995
+What's that tell you when someone can
+donate $31 million?
+
+123
+00:07:26,995 --> 00:07:26,995
+>>
+
+124
+00:07:26,995 --> 00:07:28,073
+[UNKNOWN]
+
+125
+00:07:28,073 --> 00:07:29,459
+[CROSSTALK]
+
+126
+00:07:29,459 --> 00:07:33,878
+>> They have at least 31, and probably a
+fair amount more than that.
+
+127
+00:07:33,878 --> 00:07:38,290
+He builds nothing.
+
+128
+00:07:38,290 --> 00:07:42,480
+He manufactures nothing.
+He sells no product.
+
+129
+00:07:44,600 --> 00:07:48,580
+How do you get wealthy by doing that?
+
+130
+00:07:48,580 --> 00:07:51,010
+>> He comes up with the idea and sells
+the idea.
+
+131
+00:07:51,010 --> 00:07:54,450
+>> He sent, essentially licenses the
+concepts.
+
+132
+00:07:56,360 --> 00:08:00,310
+Doesn't necessarily license the idea, but
+licenses the invention.
+
+133
+00:08:01,710 --> 00:08:03,334
+So if you're going to have a heart
+
+134
+00:08:03,334 --> 00:08:03,610
+[SOUND]
+
+135
+00:08:03,610 --> 00:08:05,590
+stint, something that's going to be
+implanted in
+
+136
+00:08:05,590 --> 00:08:07,760
+your heart, and it's going to hold open,
+
+137
+00:08:10,220 --> 00:08:14,970
+channels for blood to flow in.
+Why might you want to license that?
+
+138
+00:08:17,110 --> 00:08:21,330
+Two large companies that are in that
+business versus going at it on your own.
+
+139
+00:08:21,330 --> 00:08:25,150
+>> The large companies, I mean, they
+probably have
+
+140
+00:08:25,150 --> 00:08:28,560
+more money, more resources to start a
+business, I mean.
+
+141
+00:08:28,560 --> 00:08:32,160
+>> They have the tens of millions of
+dollars that it takes.
+
+142
+00:08:32,160 --> 00:08:37,080
+To go through and do the research, to do
+the clinical trials, to work with the FDA,
+
+143
+00:08:37,080 --> 00:08:43,310
+to roll that out, to commercialize it.
+And if you were in the business
+
+144
+00:08:43,310 --> 00:08:48,490
+of looking for a heart stent, are you
+going to buy Bob's Heart Stents?
+
+145
+00:08:48,490 --> 00:08:52,600
+So there's a branding element there as
+well, you
+
+146
+00:08:52,600 --> 00:08:54,800
+tend to buy from the companies that you
+know.
+
+147
+00:08:54,800 --> 00:08:57,490
+And he's done it again, fundamentally, by
+going
+
+148
+00:08:57,490 --> 00:09:00,290
+in and talking to doctors about what they
+need.
+
+149
+00:09:00,290 --> 00:09:03,060
+And keeps delivering solutions to them.
+
+150
+00:09:05,270 --> 00:09:07,790
+So what we can do in a fairly efficient
+way,
+
+151
+00:09:08,830 --> 00:09:12,110
+as we have ideas, you can talk with
+customers directly.
+
+152
+00:09:12,110 --> 00:09:17,410
+But what you see here is if you go to
+Amazon, search
+
+153
+00:09:17,410 --> 00:09:21,620
+on any product that you wish, then you'll
+see some level of returns.
+
+154
+00:09:21,620 --> 00:09:28,000
+So for this I searched on iPhone 5 speaker
+docks, and I get upwards of 9,000 results.
+
+155
+00:09:32,970 --> 00:09:36,630
+And with these and again, if you've
+searched on Amazon before you know that
+
+156
+00:09:36,630 --> 00:09:40,650
+you can go, you can search, you can find,
+you can search by category.
+
+157
+00:09:40,650 --> 00:09:45,170
+You can read about the product, you can
+see a picture, you can see a price.
+
+158
+00:09:45,170 --> 00:09:46,130
+What else do you see?
+
+159
+00:09:48,720 --> 00:09:51,670
+>> How the reviews of the product.
+>> You see reviews of the product.
+
+160
+00:09:53,260 --> 00:09:58,410
+And in this scenario for this first
+product I have 192 reviews.
+
+161
+00:09:58,410 --> 00:10:03,270
+For the second product I have 1,305.
+For the third product
+
+162
+00:10:03,270 --> 00:10:08,910
+I have 366.
+So add those up and you're
+
+163
+00:10:08,910 --> 00:10:14,100
+approaching 2,000 reviews of people that
+bought,
+
+164
+00:10:14,100 --> 00:10:18,240
+own and have used these iPhone 5 speaker
+docks.
+
+165
+00:10:22,700 --> 00:10:28,970
+How else would I get 2,000 people to tell
+me what they like and what they
+
+166
+00:10:28,970 --> 00:10:34,020
+dislike about an iPhone 5 speaker doc.
+If I don't do this,
+
+167
+00:10:36,830 --> 00:10:38,930
+what else can I do?
+>> You can ask them.
+
+168
+00:10:38,930 --> 00:10:40,050
+>> Who is them?
+
+169
+00:10:40,050 --> 00:10:44,569
+>> Customers of iPhone 5.
+>> How do you find them?
+
+170
+00:10:46,390 --> 00:10:48,580
+>> You go to the store.
+>> You go to the store?
+
+171
+00:10:48,580 --> 00:10:50,495
+>> Yeah.
+>> So Best Buy,
+
+172
+00:10:50,495 --> 00:10:50,560
+[CROSSTALK]
+
+173
+00:10:50,560 --> 00:10:52,970
+they're going to let you post up shop?
+>> Yeah.
+
+174
+00:10:52,970 --> 00:10:54,112
+>> No.
+>>
+
+175
+00:10:54,112 --> 00:10:55,125
+[UNKNOWN]
+
+176
+00:10:55,125 --> 00:10:55,944
+[LAUGH].
+
+177
+00:10:55,944 --> 00:10:56,885
+>> So again can't,
+
+178
+00:10:56,885 --> 00:10:57,680
+[COUGH]
+
+179
+00:10:57,680 --> 00:11:01,220
+with any degree of scale or reliability,
+go to retailers.
+
+180
+00:11:01,220 --> 00:11:04,090
+They're not going to tell you information
+about their customers.
+
+181
+00:11:04,090 --> 00:11:06,610
+And customers probably aren't going to
+take the time to talk to you.
+
+182
+00:11:08,240 --> 00:11:09,630
+>> I say, go to the discussion
+
+183
+00:11:09,630 --> 00:11:12,270
+boards online the Apple discussion boards
+where they.
+
+184
+00:11:12,270 --> 00:11:14,960
+>> OK.
+You could do something similar.
+
+185
+00:11:14,960 --> 00:11:19,770
+So, you could go to the retailers and see
+how consumers have rated products.
+
+186
+00:11:19,770 --> 00:11:22,740
+Or, you could to the enthusiest sites, the
+Apple discussion boards.
+
+187
+00:11:22,740 --> 00:11:24,490
+So, again, another platform.
+
+188
+00:11:24,490 --> 00:11:28,670
+I've let you go online and find people
+talking about these products.
+
+189
+00:11:28,670 --> 00:11:30,970
+>> You could establish a customer
+service line.
+
+190
+00:11:30,970 --> 00:11:35,730
+>> Say again.
+>> Establish a customer service line.
+
+191
+00:11:35,730 --> 00:11:37,095
+>> OK.
+How does that work?
+
+192
+00:11:37,095 --> 00:11:40,690
+>> well customers would call the phone
+line
+
+193
+00:11:40,690 --> 00:11:42,510
+for any complaints they have about the
+product.
+
+194
+00:11:42,510 --> 00:11:43,720
+>> OK.
+
+195
+00:11:45,600 --> 00:11:48,510
+How were they going to get your
+information to call you and
+
+196
+00:11:48,510 --> 00:11:50,250
+how were you going to resolve their
+problem?
+
+197
+00:11:50,250 --> 00:11:53,910
+>> Well, you could post the number
+online, something like a website.
+
+198
+00:11:53,910 --> 00:11:57,280
+>> Post the number online.
+So take a step back again.
+
+199
+00:11:57,280 --> 00:12:01,670
+You have an idea for entering this market.
+So you're not in the market yet.
+
+200
+00:12:03,600 --> 00:12:06,950
+You're trying to figure out if I were to
+enter this market and design an
+
+201
+00:12:06,950 --> 00:12:09,250
+iPhone 5 speaker dock, what should be
+
+202
+00:12:09,250 --> 00:12:12,460
+the features, the functions, the price
+point, etc.
+
+203
+00:12:12,460 --> 00:12:13,570
+So again, you're at
+
+204
+00:12:13,570 --> 00:12:16,540
+a point that you're not equipped to solve
+problems.
+
+205
+00:12:16,540 --> 00:12:18,620
+You haven't sold any product yet.
+
+206
+00:12:18,620 --> 00:12:20,920
+You're simply just trying to understand.
+
+207
+00:12:20,920 --> 00:12:24,110
+What do people like and dislike about the
+products?
+
+208
+00:12:24,110 --> 00:12:26,740
+>> Like when they have to register it
+like for a
+
+209
+00:12:26,740 --> 00:12:28,880
+warranty or something like that having to
+fill out a survey.
+
+210
+00:12:28,880 --> 00:12:31,330
+>> But you're jumping ahead of it.
+
+211
+00:12:31,330 --> 00:12:33,700
+So and, what I mean by this is that for
+
+212
+00:12:33,700 --> 00:12:39,120
+Logitech, the middle brand here, or for
+Bose you're both right.
+
+213
+00:12:39,120 --> 00:12:43,180
+If I'm Logitech I should have a customer
+service line to resolve complaints.
+
+214
+00:12:43,180 --> 00:12:46,800
+If I'm Logitech, I should have a product
+warranty registration system.
+
+215
+00:12:46,800 --> 00:12:48,160
+But I'm saying, if you want to compete
+
+216
+00:12:48,160 --> 00:12:51,780
+against Logitech, if want to compete
+against Bose,
+
+217
+00:12:51,780 --> 00:12:54,630
+how do you get customers to tell you
+
+218
+00:12:54,630 --> 00:12:57,800
+how they feel about your competitors
+products and services?
+
+219
+00:12:57,800 --> 00:13:01,340
+>> Telemarketing.
+>> Telemarketing.
+
+220
+00:13:01,340 --> 00:13:03,920
+How do you find people that are owners of
+these products?
+
+221
+00:13:05,520 --> 00:13:07,322
+>> Just randomly call people?
+I don't know
+
+222
+00:13:07,322 --> 00:13:07,620
+[LAUGH].
+
+223
+00:13:07,620 --> 00:13:09,570
+>> Randomly call people.
+
+224
+00:13:09,570 --> 00:13:13,190
+How many people here have an iPhone 5
+speaker dock?
+
+225
+00:13:13,190 --> 00:13:18,370
+>> I have one.
+>> So, perhaps three.
+
+226
+00:13:18,370 --> 00:13:24,660
+So for every thousand phone calls we make,
+we find 10% of the people even have it.
+
+227
+00:13:24,660 --> 00:13:26,440
+Somebody calls you and wants to talk to
+you about
+
+228
+00:13:26,440 --> 00:13:29,990
+your iPhone 5 speaker dock, are you
+going to talk to them?
+
+229
+00:13:29,990 --> 00:13:31,872
+>> No.
+>> Then of the
+
+230
+00:13:31,872 --> 00:13:31,975
+[CROSSTALK]
+
+231
+00:13:31,975 --> 00:13:35,780
+10% that answered the phone, none of them
+are going to talk to us.
+
+232
+00:13:35,780 --> 00:13:35,780
+>>
+
+233
+00:13:35,780 --> 00:13:36,080
+[LAUGH]
+
+234
+00:13:36,080 --> 00:13:36,510
+[UNKNOWN]
+
+235
+00:13:36,510 --> 00:13:37,210
+>> And there's an expense
+
+236
+00:13:37,210 --> 00:13:38,270
+[COUGH].
+
+237
+00:13:38,270 --> 00:13:43,380
+It costs money to do that.
+This free, aside from you time.
+
+238
+00:13:45,890 --> 00:13:52,790
+What else do we do when we go out and are
+considering a higher item purchase?
+
+239
+00:13:52,790 --> 00:13:53,650
+If your going to spend a couple
+
+240
+00:13:53,650 --> 00:13:56,820
+hundred dollars on something, particularly
+electronics.
+
+241
+00:13:56,820 --> 00:13:57,710
+What do you typically do?
+
+242
+00:13:57,710 --> 00:14:01,400
+>> Get cheaper better alternatives.
+
+243
+00:14:02,980 --> 00:14:05,330
+>> But how do you decide which ones you
+want to buy?
+
+244
+00:14:05,330 --> 00:14:08,520
+>> You go to the store and try it first.
+>> You go to the store and try it out.
+
+245
+00:14:08,520 --> 00:14:11,230
+What else should you do?
+>> Ask
+
+246
+00:14:11,230 --> 00:14:13,690
+your friends.
+>> Ask friends.
+
+247
+00:14:13,690 --> 00:14:15,310
+What else?
+>> Reviews.
+
+248
+00:14:15,310 --> 00:14:17,160
+>> You look for reviews.
+
+249
+00:14:17,160 --> 00:14:18,920
+And so in that way not only might you look
+
+250
+00:14:18,920 --> 00:14:22,670
+at consumer reviews, but you look at the
+expert reviews.
+
+251
+00:14:22,670 --> 00:14:26,160
+You look at the reviews that are written
+by the magazines that
+
+252
+00:14:26,160 --> 00:14:29,170
+cover automotives or electronics or
+refrigerators
+
+253
+00:14:29,170 --> 00:14:30,640
+or whatever it is that you're considering.
+
+254
+00:14:31,670 --> 00:14:37,010
+But again, the expert reviews give you
+some perspective
+
+255
+00:14:37,010 --> 00:14:41,670
+that I'd rather have 2,000 people tell me
+their experience as a user over time.
+
+256
+00:14:43,510 --> 00:14:47,970
+One fault with a lot of the expert reviews
+is they're reviewing the new product.
+
+257
+00:14:47,970 --> 00:14:50,550
+They don't necessarily review the product
+after it's
+
+258
+00:14:50,550 --> 00:14:52,990
+been used for six months or a year.
+
+259
+00:14:52,990 --> 00:14:56,950
+So in that way, again, very valuable to go
+in and do this type
+
+260
+00:14:56,950 --> 00:15:02,380
+of thing when you can through and find
+people that are owners, that are users,
+
+261
+00:15:02,380 --> 00:15:09,410
+that do it relatively real time, en mass.
+And you have a big volume of content here.
+
+262
+00:15:09,410 --> 00:15:12,660
+That you're able to work with, and you can
+go in too, and
+
+263
+00:15:12,660 --> 00:15:19,150
+read these individual reviews, and you can
+see most helpful or favorable reviews.
+
+264
+00:15:19,150 --> 00:15:22,090
+You would read the critical reviews, you
+could see some scale
+
+265
+00:15:22,090 --> 00:15:24,820
+of how many people really liked it, how
+many people didn't like.
+
+266
+00:15:24,820 --> 00:15:28,300
+And you can get a lot of good information
+this way on
+
+267
+00:15:28,300 --> 00:15:31,220
+the cheap and relatively fast.
+
+268
+00:15:31,220 --> 00:15:33,860
+You don't have to build a survey, you
+don't have to
+
+269
+00:15:33,860 --> 00:15:37,140
+worry about how do I find people that own
+these products.
+
+270
+00:15:37,140 --> 00:15:40,290
+And if I find them how do I incentivize
+them to respond
+
+271
+00:15:41,820 --> 00:15:46,690
+you simply go and, and see what do people
+like, and don't like.
+
+272
+00:15:48,180 --> 00:15:51,780
+What's the problem with doing your
+research this way, and only this way?
+
+273
+00:15:51,780 --> 00:15:53,800
+>> You
+
+274
+00:15:53,800 --> 00:15:58,590
+have a biased set of people.
+>> You may have a biased set of people.
+
+275
+00:15:58,590 --> 00:16:01,896
+And some people criticize Yelp, and some
+of these other platforms,
+
+276
+00:16:01,896 --> 00:16:02,409
+[INAUDIBLE]
+
+277
+00:16:02,409 --> 00:16:03,864
+if I'm a restaurant owner.
+
+278
+00:16:05,260 --> 00:16:09,280
+Am I just going to go in once a day, and
+give my restaurant a five star rating?
+
+279
+00:16:09,280 --> 00:16:11,330
+>> yeah.
+
+280
+00:16:11,330 --> 00:16:13,770
+>> And, that's difficult to manage.
+
+281
+00:16:13,770 --> 00:16:18,440
+So there might be some element of fraud
+invovled with it, to be mindful of.
+
+282
+00:16:20,630 --> 00:16:22,470
+Any other problems with this?
+>> Yep.
+
+283
+00:16:22,470 --> 00:16:25,110
+If you had a faulty product that didn't
+work.
+
+284
+00:16:25,110 --> 00:16:29,990
+You don't know necessarily that
+representativeness of what they're saying.
+
+285
+00:16:29,990 --> 00:16:33,980
+That they did a product when they pulled
+them out the mailbox, they dropped it.
+
+286
+00:16:35,290 --> 00:16:39,170
+And then when they took it in their home,
+and opened it up, it was broken.
+
+287
+00:16:39,170 --> 00:16:40,600
+So, again, there's some element of
+
+288
+00:16:40,600 --> 00:16:43,620
+it being somewhat of an uncontrolled
+environment.
+
+289
+00:16:43,620 --> 00:16:43,825
+Yep.
+>>
+
+290
+00:16:43,825 --> 00:16:45,120
+[UNKNOWN]
+
+291
+00:16:45,120 --> 00:16:46,146
+reviews like you have
+
+292
+00:16:46,146 --> 00:16:46,320
+[SOUND]
+
+293
+00:16:46,320 --> 00:16:49,290
+different views on it, so its like
+inconsistent.
+
+294
+00:16:49,290 --> 00:16:49,420
+>> Okay.
+
+295
+00:16:49,420 --> 00:16:49,420
+>>
+
+296
+00:16:49,420 --> 00:16:50,754
+[UNKNOWN]
+
+297
+00:16:50,754 --> 00:16:53,780
+>> There's some level of inconsistency.
+
+298
+00:16:53,780 --> 00:17:00,950
+in this model, we see out of 1300, its at
+about 4 1/2 stars on a 5 star scale.
+
+299
+00:17:00,950 --> 00:17:05,109
+So we see some measure of consistency, and
+we see kind of an even curve.
+
+300
+00:17:06,580 --> 00:17:11,120
+Where there are 50 and 30 and 70 people
+that really didn't like it but
+
+301
+00:17:11,120 --> 00:17:14,862
+300 and 800 that do so you want to look at
+all of the above.
+
+302
+00:17:14,862 --> 00:17:16,510
+You want to get some sense
+
+303
+00:17:16,510 --> 00:17:20,080
+of, for the ones that like, what themes
+are central
+
+304
+00:17:20,080 --> 00:17:23,130
+and I might want to incorporate those
+elements into my design.
+
+305
+00:17:23,130 --> 00:17:26,470
+And for the ones that don't like, are
+there things there,
+
+306
+00:17:26,470 --> 00:17:29,340
+that I can recognize and perhaps solve or
+resolve in your design?
+
+307
+00:17:29,340 --> 00:17:34,268
+>> I was just going to say the, this
+market is only showing people who first of
+
+308
+00:17:34,268 --> 00:17:39,369
+all have using the Internet and are also
+willing to go back and review it.
+
+309
+00:17:39,369 --> 00:17:41,200
+>> Okay.
+>> They're going to get less people.
+
+310
+00:17:41,200 --> 00:17:41,530
+>> So
+
+311
+00:17:41,530 --> 00:17:45,540
+what's a smaller population of it's people
+that are taking the time to do.
+
+312
+00:17:45,540 --> 00:17:46,640
+And you tend to see people that are
+
+313
+00:17:46,640 --> 00:17:50,260
+doing this type of commenting on the outer
+bounds.
+
+314
+00:17:50,260 --> 00:17:53,860
+People that are really happy, take the
+time to make comment.
+
+315
+00:17:53,860 --> 00:17:58,090
+People that are very dissatisfied, take
+the time to make comment.
+
+316
+00:17:58,090 --> 00:18:01,420
+If you bought it, then it's okay and it
+does what you thought it would.
+
+317
+00:18:01,420 --> 00:18:04,400
+You probably, on average not going to take
+the time to review.
+
+318
+00:18:05,420 --> 00:18:06,740
+So, again, it's some
+
+319
+00:18:06,740 --> 00:18:07,405
+of those survey
+
+320
+00:18:07,405 --> 00:18:07,550
+[UNKNOWN]
+
+321
+00:18:07,550 --> 00:18:08,950
+to think about.
+
+322
+00:18:08,950 --> 00:18:12,720
+But in the absence of what your other
+options are, of I'm
+
+323
+00:18:12,720 --> 00:18:17,178
+not exactly sure how you would affordably
+fined owners, particularly 2000 owners.
+
+324
+00:18:17,178 --> 00:18:22,350
+To get 2,000 pieces of feedback on an
+iPhone 5 speaker dock.
+
+325
+00:18:22,350 --> 00:18:23,960
+If not to do things like this.
+
+326
+00:18:26,110 --> 00:18:29,560
+So, helpful in understanding market,
+understand the need.
+
+327
+00:18:29,560 --> 00:18:31,970
+So, again, all that factors into being
+able to
+
+328
+00:18:31,970 --> 00:18:34,670
+think about, I've got an idea, I've got a
+concept.
+
+329
+00:18:34,670 --> 00:18:36,830
+Let me go out do a little bit of research,
+see
+
+330
+00:18:36,830 --> 00:18:40,870
+what consumers think about it and so
+that's our starting point.
+
+331
+00:18:40,870 --> 00:18:42,946
+And from there it's an element of well
+what can I do?
+
+332
+00:18:42,946 --> 00:18:45,080
+How do I build?
+How do I develop?
+
+333
+00:18:45,080 --> 00:18:47,000
+What do I do about it?
+
+334
+00:18:47,000 --> 00:18:49,350
+And what's the future of that and how are
+things involving?
+
+335
+00:18:51,560 --> 00:18:54,080
+And in that platform it gives you the
+opportunity to go out
+
+336
+00:18:54,080 --> 00:18:55,130
+and do a bit more further
+
+337
+00:18:55,130 --> 00:18:58,079
+research together information about
+customer preferences.
+
+338
+00:18:58,079 --> 00:18:58,079
+>>
+
+339
+00:18:58,079 --> 00:18:59,490
+[COUGH]
+
+340
+00:18:59,490 --> 00:19:02,710
+>> And at that stage you can think about
+
+341
+00:19:02,710 --> 00:19:05,490
+the element of groups and surveys and
+focus groups.
+
+342
+00:19:06,560 --> 00:19:08,140
+Anybody been in a focus group?
+
+343
+00:19:09,650 --> 00:19:11,650
+You know what I mean by focus group?
+
+344
+00:19:12,890 --> 00:19:13,910
+And what's a focus group?
+
+345
+00:19:13,910 --> 00:19:15,810
+>> A focus group is a bunch of people
+who
+
+346
+00:19:15,810 --> 00:19:18,420
+are selected by a company who wants to do
+product testing.
+
+347
+00:19:18,420 --> 00:19:20,760
+>> Okay.
+What's a bunch?
+
+348
+00:19:20,760 --> 00:19:24,635
+>> people who they believe.
+>> What's a number?
+
+349
+00:19:24,635 --> 00:19:29,900
+>> it can be anywhere from like six to,
+I'd say, even 100.
+
+350
+00:19:29,900 --> 00:19:31,220
+>> Okay.
+
+351
+00:19:31,220 --> 00:19:33,990
+Tends to be relatively small groups.
+
+352
+00:19:33,990 --> 00:19:37,160
+So single digits, maybe a few dozen
+people.
+
+353
+00:19:37,160 --> 00:19:40,140
+But the orientation of let's put people in
+a room as
+
+354
+00:19:40,140 --> 00:19:46,590
+a group, and talk to them about their
+experiences likes, dislikes, etc.
+
+355
+00:19:46,590 --> 00:19:49,870
+And the idea there it's a bit more
+informal, you began to see
+
+356
+00:19:49,870 --> 00:19:52,460
+where people are feeding off one another
+side.
+
+357
+00:19:52,460 --> 00:19:54,630
+There was contributed in the things.
+
+358
+00:19:54,630 --> 00:19:57,290
+Different than an interview which is
+typically a one to one
+
+359
+00:19:58,490 --> 00:20:01,830
+and interview different than a survey is
+surveys are often written.
+
+360
+00:20:04,920 --> 00:20:09,810
+And with those surveys typically they are
+objective, and that you're checking
+
+361
+00:20:09,810 --> 00:20:12,020
+the box, you're agreeing, you're
+disagreeing,
+
+362
+00:20:12,020 --> 00:20:13,900
+you're rating things on a scale.
+
+363
+00:20:13,900 --> 00:20:15,860
+Interviews, a little more open-ended.
+
+364
+00:20:15,860 --> 00:20:18,620
+You can respond, you can inquire, you can
+ask
+
+365
+00:20:18,620 --> 00:20:22,340
+why, and what, and how, in a different
+way.
+
+366
+00:20:22,340 --> 00:20:23,930
+And so all of those are things you can do
+
+367
+00:20:23,930 --> 00:20:27,020
+to get some sense of what they've done,
+what they're doing.
+
+368
+00:20:27,020 --> 00:20:28,870
+And what are they thinking about you?
+
+369
+00:20:30,510 --> 00:20:33,160
+And in that way it helps to either
+validate that the idea
+
+370
+00:20:33,160 --> 00:20:38,450
+that you have is indeed a good idea, and a
+marketable idea perhaps.
+
+371
+00:20:38,450 --> 00:20:41,030
+Versus something that might have been an
+interesting concept,
+
+372
+00:20:42,140 --> 00:20:44,040
+but there might not be a market for it.
+
+373
+00:20:44,040 --> 00:20:45,380
+At least in its current conception.
+
+374
+00:20:48,500 --> 00:20:51,920
+When you go through and think about where
+how do I find data.
+
+375
+00:20:51,920 --> 00:20:53,740
+How do I find Market Research.
+
+376
+00:20:56,170 --> 00:20:59,820
+And there are endless resources for that.
+
+377
+00:20:59,820 --> 00:21:04,250
+this is part of list of tools that Steve
+
+378
+00:21:04,250 --> 00:21:06,150
+Blank who is active in
+
+379
+00:21:06,150 --> 00:21:09,120
+the entrepreneurship education spaces
+identified.
+
+380
+00:21:09,120 --> 00:21:14,910
+And these are a few that I would start
+with that gives you some sense of
+
+381
+00:21:14,910 --> 00:21:18,700
+broadly research on public companies, how
+large are
+
+382
+00:21:18,700 --> 00:21:21,240
+markets, how many dollars are spent in
+certain
+
+383
+00:21:21,240 --> 00:21:24,735
+industries, geographies, things of that
+nature.
+
+384
+00:21:24,735 --> 00:21:24,735
+>>
+
+385
+00:21:24,735 --> 00:21:25,384
+[COUGH]
+
+386
+00:21:25,384 --> 00:21:29,670
+>> You can learn about website traffic
+and populations and tranges and growth.
+
+387
+00:21:31,120 --> 00:21:36,610
+From there you can go through and look at
+specific business statistics, so
+
+388
+00:21:36,610 --> 00:21:41,760
+there are different sets of databases that
+are geared toward things, like census.
+
+389
+00:21:42,760 --> 00:21:43,890
+What's the census?
+
+390
+00:21:45,680 --> 00:21:50,880
+>> When the, when a government counts up
+how many people
+
+391
+00:21:50,880 --> 00:21:52,400
+that there are in a population.
+>> Okay.
+
+392
+00:21:52,400 --> 00:21:53,610
+>> Area.
+
+393
+00:21:53,610 --> 00:21:56,030
+>> So, census looks and things like
+population
+
+394
+00:21:56,030 --> 00:21:59,560
+by area, by geography by zip code by age.
+
+395
+00:21:59,560 --> 00:22:01,040
+>> Yeah.
+Now.
+
+396
+00:22:01,040 --> 00:22:01,820
+It just, I mean.
+
+397
+00:22:02,990 --> 00:22:07,820
+Look it has a bunch of stats of the nation
+as a whole and different ethnicities.
+
+398
+00:22:07,820 --> 00:22:08,070
+>> Okay.
+
+399
+00:22:08,070 --> 00:22:08,745
+>> So.
+
+400
+00:22:08,745 --> 00:22:13,000
+>> So they're looking at gender.
+They're looking at education.
+
+401
+00:22:13,000 --> 00:22:15,980
+So a host of different stats.
+
+402
+00:22:15,980 --> 00:22:17,570
+Why does that matter?
+
+403
+00:22:17,570 --> 00:22:21,732
+Why might you for a given zip code want to
+know about the people there?
+
+404
+00:22:21,732 --> 00:22:21,732
+>>
+
+405
+00:22:21,732 --> 00:22:23,890
+[COUGH]
+
+406
+00:22:23,890 --> 00:22:28,430
+it's so you can target a certain group of
+people like elders.
+
+407
+00:22:28,430 --> 00:22:29,080
+>> Okay.
+
+408
+00:22:30,460 --> 00:22:35,285
+So if you're considering serving a certain
+market, either locating operations there.
+
+409
+00:22:35,285 --> 00:22:37,550
+Or selling your product there.
+
+410
+00:22:37,550 --> 00:22:40,270
+Or investing your money in marketing
+dollars there.
+
+411
+00:22:40,270 --> 00:22:41,930
+You want to know well, who is there?
+
+412
+00:22:41,930 --> 00:22:43,270
+And who are they?
+
+413
+00:22:43,270 --> 00:22:48,900
+This is a central way that restaurants
+decide where to locate, this is
+
+414
+00:22:48,900 --> 00:22:50,780
+the central way that they decide where do
+we
+
+415
+00:22:50,780 --> 00:22:54,730
+build malls, where are we going to locate
+new apartment buildings?
+
+416
+00:22:54,730 --> 00:22:57,140
+It's, what's the population that's there?
+
+417
+00:22:57,140 --> 00:22:59,020
+How has it changed?
+
+418
+00:22:59,020 --> 00:23:02,430
+And then doing some analysis and thinking
+about, how is it going to change?
+
+419
+00:23:02,430 --> 00:23:07,920
+there's also data that load side venture
+capital the PwC MoneyTree is a big one.
+
+420
+00:23:07,920 --> 00:23:14,210
+And with that you can see for free, and
+all of these are free resources,
+
+421
+00:23:14,210 --> 00:23:15,820
+you can see.
+
+422
+00:23:15,820 --> 00:23:18,200
+Where are venture capitalists putting
+their money?
+
+423
+00:23:18,200 --> 00:23:19,900
+What types of industries?
+
+424
+00:23:19,900 --> 00:23:23,750
+What geographies?
+How many companies did they invest in?
+
+425
+00:23:23,750 --> 00:23:25,990
+What was the stage of those companies?
+
+426
+00:23:25,990 --> 00:23:29,860
+How much did they invest on average per
+company, per industry, per region?
+
+427
+00:23:31,140 --> 00:23:32,530
+And so in that way, it gives you some
+
+428
+00:23:32,530 --> 00:23:34,820
+sense of what's going on in the market
+space.
+
+429
+00:23:36,030 --> 00:23:37,520
+Lot's of other.
+
+430
+00:23:37,520 --> 00:23:39,370
+Resources that are there and all these are
+links
+
+431
+00:23:39,370 --> 00:23:41,396
+that you can go back to for later.
+
+432
+00:23:41,396 --> 00:23:45,428
+so with all of these links, you can go in
+and see things on a national level,
+
+433
+00:23:45,428 --> 00:23:47,796
+an an international level, of being able
+to
+
+434
+00:23:47,796 --> 00:23:51,570
+capture and understand what's going on in
+these markets.
+
+435
+00:23:51,570 --> 00:23:56,350
+So, again, pages and pages of links.
+
+436
+00:23:56,350 --> 00:23:59,090
+That you can use based on what it is
+you're trying to do, where
+
+437
+00:23:59,090 --> 00:24:03,580
+you're trying to do it but there's no
+shortage of market data out there.
+
+438
+00:24:03,580 --> 00:24:04,420
+In many cases
+
+439
+00:24:04,420 --> 00:24:09,990
+governments and states are investing in
+measuring this.
+
+440
+00:24:09,990 --> 00:24:10,840
+Why do they do that?
+
+441
+00:24:12,820 --> 00:24:17,110
+Why does the county or state, put dozens
+
+442
+00:24:17,110 --> 00:24:19,475
+or hundreds of people to work collecting
+data
+
+443
+00:24:19,475 --> 00:24:22,110
+[SOUND]
+
+444
+00:24:22,110 --> 00:24:23,010
+on this type of thing.
+
+445
+00:24:23,010 --> 00:24:27,775
+>> I mean, I know, at least for some
+people, at least my
+
+446
+00:24:27,775 --> 00:24:27,840
+[INAUDIBLE]
+
+447
+00:24:27,840 --> 00:24:31,759
+that he looks for the stats more to that's
+
+448
+00:24:31,759 --> 00:24:32,970
+[UNKNOWN]
+
+449
+00:24:32,970 --> 00:24:36,120
+case community.
+>> Okay.
+
+450
+00:24:36,120 --> 00:24:40,580
+So there's an element of when it comes to
+things like federal aid programs.
+
+451
+00:24:40,580 --> 00:24:43,780
+When it comes to things like economic
+development.
+
+452
+00:24:43,780 --> 00:24:46,390
+When it comes to attracting businesses
+they want to
+
+453
+00:24:46,390 --> 00:24:49,630
+have a good representation of here's who
+we are.
+
+454
+00:24:49,630 --> 00:24:53,195
+And here's why we would be a good fit for
+what it is that they're trying to attract.
+
+455
+00:24:53,195 --> 00:24:53,195
+>>
+
+456
+00:24:53,195 --> 00:24:55,160
+[SOUND]
+
+457
+00:24:55,160 --> 00:24:58,400
+well, ultimately it'll benefit them like
+economically and
+
+458
+00:24:58,400 --> 00:25:00,970
+financially because if they because if
+they give
+
+459
+00:25:00,970 --> 00:25:03,260
+the data then they'll track certain
+businesses into
+
+460
+00:25:03,260 --> 00:25:05,440
+that state so they would get, and with
+taxes.
+
+461
+00:25:05,440 --> 00:25:06,600
+>> Yep.
+
+462
+00:25:06,600 --> 00:25:08,750
+So if you, you can say here is the income
+
+463
+00:25:08,750 --> 00:25:12,380
+profile of our folks, here's the education
+profile of our folks.
+
+464
+00:25:12,380 --> 00:25:15,040
+Here's a number of people that we have.
+
+465
+00:25:15,040 --> 00:25:16,850
+Here's a number of perhaps young people
+that we
+
+466
+00:25:16,850 --> 00:25:19,310
+have, if that's a market that people are
+targeting.
+
+467
+00:25:19,310 --> 00:25:20,000
+So in that way,
+
+468
+00:25:20,000 --> 00:25:23,300
+they spend a lot of time doing that, and
+they make it publically available.
+
+469
+00:25:23,300 --> 00:25:26,270
+Again, available to you as well, to be
+able to
+
+470
+00:25:26,270 --> 00:25:28,509
+go through and see what's going on in the
+market.
+
+471
+00:25:29,720 --> 00:25:33,270
+So with that you can do a lot of things,
+you can have a lot
+
+472
+00:25:33,270 --> 00:25:38,840
+of idea, you can go through and you can
+recognize that there are market needs.
+
+473
+00:25:38,840 --> 00:25:42,190
+You can do some research and validate
+those needs but,
+
+474
+00:25:42,190 --> 00:25:45,260
+then there is a question of what do I do?
+
+475
+00:25:46,400 --> 00:25:49,150
+I have my iPhone 5 speaker dock idea.
+
+476
+00:25:51,550 --> 00:25:55,580
+And I've gone through, and I have 30
+things, that people want.
+
+477
+00:25:57,110 --> 00:25:59,490
+If I ask you if you like something, you
+may say
+
+478
+00:25:59,490 --> 00:26:04,870
+yes, if I tell you what it costs, your
+mind may change.
+
+479
+00:26:06,020 --> 00:26:09,470
+So it gives you the opportunity to say, do
+you like this set
+
+480
+00:26:09,470 --> 00:26:14,180
+of futures for this price, or this set of
+futures for this price?
+
+481
+00:26:14,180 --> 00:26:16,990
+And again, you're doing this all before
+you have manufactured
+
+482
+00:26:16,990 --> 00:26:17,930
+a thing.
+
+483
+00:26:17,930 --> 00:26:21,300
+You're doing this all before you have
+prototyped anything.
+
+484
+00:26:21,300 --> 00:26:22,630
+You're still in the process of trying to
+
+485
+00:26:22,630 --> 00:26:26,520
+understand what is that is that we should
+desire.
+
+486
+00:26:26,520 --> 00:26:29,020
+And what products and services make sense
+for
+
+487
+00:26:29,020 --> 00:26:30,340
+the market that we're trying to compete
+in.
+
+488
+00:26:30,340 --> 00:26:32,720
+And in that way that's what we
+
+489
+00:26:32,720 --> 00:26:35,610
+mean by this separation and ranking of
+preferences.
+
+490
+00:26:35,610 --> 00:26:38,620
+And that it gives you some sense of what
+exactly do you want to do.
+
+491
+00:26:39,900 --> 00:26:41,990
+So in summary when you're beginning to
+think
+
+492
+00:26:41,990 --> 00:26:44,730
+about entrepreneurial ideas, we want to
+recognize and
+
+493
+00:26:44,730 --> 00:26:47,130
+try to seek those real needs and wants.
+
+494
+00:26:47,130 --> 00:26:50,550
+And we also want to recognize the role
+that price plays,
+
+495
+00:26:50,550 --> 00:26:53,610
+as we consider what we might want to bring
+to the market.
+
+496
+00:26:53,610 --> 00:26:56,580
+The way that we do that is first to
+research creatively.
+
+497
+00:26:56,580 --> 00:27:00,740
+So you may not necessarily have the time
+or budget to do elaborate market research.
+
+498
+00:27:00,740 --> 00:27:03,460
+But through some of the tools and
+techniques that we've talked about today,
+
+499
+00:27:03,460 --> 00:27:07,100
+it gives you some insights on what you can
+do with reasonable accuracy,
+
+500
+00:27:07,100 --> 00:27:09,640
+fairly quickly and fairly affordably.
+
+501
+00:27:09,640 --> 00:27:12,830
+What you're also going to need to do is
+use some of your own intuition.
+
+502
+00:27:12,830 --> 00:27:14,390
+So in that way if you're truly doing
+something
+
+503
+00:27:14,390 --> 00:27:17,170
+innovative by definition it should be a
+bit new.
+
+504
+00:27:17,170 --> 00:27:19,350
+And maybe there are competitors out there
+now
+
+505
+00:27:19,350 --> 00:27:21,300
+or in the past that you can learn from.
+
+506
+00:27:21,300 --> 00:27:23,520
+But at the end of the day you're probably
+going to be trying to bring
+
+507
+00:27:23,520 --> 00:27:24,685
+some things to market that you're not
+
+508
+00:27:24,685 --> 00:27:27,810
+going to find perfect market research to
+align with.
+
+509
+00:27:27,810 --> 00:27:29,735
+And so, you're applying some of your own
+
+510
+00:27:29,735 --> 00:27:33,035
+experiences, you're applying some of your
+own background, you're
+
+511
+00:27:33,035 --> 00:27:33,420
+[UNKNOWN]
+
+512
+00:27:33,420 --> 00:27:35,235
+applying some of your own know-how and
+
+513
+00:27:35,235 --> 00:27:38,670
+analysis to evaluate the research that
+you're finding.
+
+514
+00:27:38,670 --> 00:27:41,384
+And then lastly, and arguably the most
+importantly,
+
+515
+00:27:41,384 --> 00:27:43,706
+is to think about market segments and
+niches.
+
+516
+00:27:43,706 --> 00:27:46,982
+And we'll talk about this a little bit
+later but find a mine way
+
+517
+00:27:46,982 --> 00:27:47,423
+[UNKNOWN]
+
+518
+00:27:47,423 --> 00:27:51,061
+think about is the specific market.
+And now our market that you've
+
+519
+00:27:51,061 --> 00:27:51,495
+[UNKNOWN]
+
+520
+00:27:51,495 --> 00:27:52,549
+serve, that you can
+
+521
+00:27:52,549 --> 00:27:52,983
+[UNKNOWN]
+
+522
+00:27:52,983 --> 00:27:54,347
+brand there, that you can
+
+523
+00:27:54,347 --> 00:27:54,781
+[UNKNOWN]
+
+524
+00:27:54,781 --> 00:27:59,120
+our customer and that you can build your
+skills and abilities and capabilities.
+
+525
+00:27:59,120 --> 00:27:59,246
+So
+
+526
+00:27:59,246 --> 00:27:59,687
+[UNKNOWN]
+
+527
+00:27:59,687 --> 00:28:02,880
+in bigger markets later but it gives you a
+foothold.
+
+528
+00:28:02,880 --> 00:28:05,470
+And, it gives you an entryway into
+entering a market and you can
+
+529
+00:28:05,470 --> 00:28:09,840
+even specialize within that, and a better
+way than many of the existing competitors.
+

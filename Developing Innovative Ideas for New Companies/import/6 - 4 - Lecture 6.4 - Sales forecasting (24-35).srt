@@ -1,0 +1,2071 @@
+1
+00:00:03,830 --> 00:00:06,488
+Today we're going to discuss sales
+forecasting.
+
+2
+00:00:06,488 --> 00:00:09,805
+And this is something that I see as a
+critical challenge for many entrepreneurs.
+
+3
+00:00:09,805 --> 00:00:12,016
+And it's very difficult to try and make
+
+4
+00:00:12,016 --> 00:00:14,897
+a reasonable forecast of what are your
+sales, what
+
+5
+00:00:14,897 --> 00:00:16,974
+are your revenues going to be a year from
+
+6
+00:00:16,974 --> 00:00:19,849
+now, two years from now, three years from
+now.
+
+7
+00:00:19,849 --> 00:00:24,083
+For a product that you haven't built for a
+market that you've researched, which
+
+8
+00:00:24,083 --> 00:00:26,577
+you haven't yet entered, and versus
+competitors
+
+9
+00:00:26,577 --> 00:00:28,586
+that you have not yet competed against.
+
+10
+00:00:28,586 --> 00:00:29,066
+So in that
+
+11
+00:00:29,066 --> 00:00:31,826
+way, we'll look at some tools and some
+techniques for
+
+12
+00:00:31,826 --> 00:00:34,530
+how to make these sales forecast for a new
+venture.
+
+13
+00:00:34,530 --> 00:00:38,300
+Fundamentally, we'll talk about what are
+some business models
+
+14
+00:00:38,300 --> 00:00:43,110
+and business plan impacts and how does the
+sales forecast
+
+15
+00:00:43,110 --> 00:00:45,660
+impact your model and your plan and why is
+
+16
+00:00:45,660 --> 00:00:50,470
+a good sales forecast necessary to have a
+convincing plan.
+
+17
+00:00:50,470 --> 00:00:54,150
+We'll also examine how to forecast these
+sales and how
+
+18
+00:00:54,150 --> 00:00:55,950
+to set some revenue goals.
+
+19
+00:00:55,950 --> 00:00:58,130
+And we'll work through some, what I
+believe to
+
+20
+00:00:58,130 --> 00:01:02,360
+be novel approaches to that, that help
+with understanding
+
+21
+00:01:02,360 --> 00:01:05,030
+the target profits of your company and
+then working
+
+22
+00:01:05,030 --> 00:01:07,770
+backwards from there, to get to your sales
+forecast.
+
+23
+00:01:09,110 --> 00:01:12,110
+We want to recognize that, again, you're
+doing this to plan your
+
+24
+00:01:12,110 --> 00:01:15,110
+business because based on how much you
+think you're going to sell,
+
+25
+00:01:17,220 --> 00:01:19,560
+it's going to really dictate how you're
+going to build the company.
+
+26
+00:01:21,430 --> 00:01:24,390
+How many people you need, what types of
+resources
+
+27
+00:01:24,390 --> 00:01:28,900
+you need, what your expenses are going to
+be as well.
+
+28
+00:01:28,900 --> 00:01:33,850
+And so the orientation of that is, that
+sales is typically the starting point
+
+29
+00:01:33,850 --> 00:01:37,800
+of building out the rest of your income
+statement and the rest of your financials.
+
+30
+00:01:39,330 --> 00:01:42,290
+We want sales to be high, typically,
+because we want
+
+31
+00:01:42,290 --> 00:01:45,250
+them to be convincing to investors,
+convincing to lenders.
+
+32
+00:01:46,370 --> 00:01:48,640
+But what happens if they're too high?
+
+33
+00:01:48,640 --> 00:01:49,850
+What happens if we come in and we
+
+34
+00:01:49,850 --> 00:01:52,550
+say we're going to sell a million this
+year, or
+
+35
+00:01:52,550 --> 00:01:54,360
+5 million this year, or 10 million this
+year
+
+36
+00:01:54,360 --> 00:01:56,400
+and we don't have anything to back it up?
+
+37
+00:01:56,400 --> 00:01:58,180
+>> so they're not going to believe you?
+
+38
+00:01:58,180 --> 00:02:03,360
+>> There's an element of feasibility.
+There's an element of reality.
+
+39
+00:02:03,360 --> 00:02:05,260
+if you think you can sell a million, or
+you
+
+40
+00:02:05,260 --> 00:02:07,630
+think you can sell 5 million, and you have
+a plan
+
+41
+00:02:07,630 --> 00:02:12,260
+to get there, and your plan is logical and
+rational then you can certainly do that.
+
+42
+00:02:12,260 --> 00:02:16,607
+But it's important, again, to recognize
+that depending on where you're going to
+
+43
+00:02:16,607 --> 00:02:20,246
+get money from there might be some
+expectations of what they have.
+
+44
+00:02:20,246 --> 00:02:22,952
+Investors are typically looking for big
+returns
+
+45
+00:02:22,952 --> 00:02:25,592
+and so they're looking for pretty rapid
+growth.
+
+46
+00:02:25,592 --> 00:02:28,404
+Banks, somewhere in the middle they want
+you
+
+47
+00:02:28,404 --> 00:02:30,924
+to be able to pay back whatever you lend.
+
+48
+00:02:30,924 --> 00:02:32,706
+But they don't need you to
+
+49
+00:02:32,706 --> 00:02:36,082
+necessarily be on the cover of Fortune in
+a year.
+
+50
+00:02:36,082 --> 00:02:40,460
+If it's your money, you can move at
+kind of the pace that you want to move at.
+
+51
+00:02:40,460 --> 00:02:43,443
+So again, the type of financial capital
+you have will dictate sales
+
+52
+00:02:43,443 --> 00:02:44,436
+[UNKNOWN]
+
+53
+00:02:44,436 --> 00:02:44,982
+as well.
+
+54
+00:02:44,982 --> 00:02:48,460
+But again, fundamentally, for most
+ventures, be
+
+55
+00:02:48,460 --> 00:02:51,040
+it profit or non-profit, you need to
+generate
+
+56
+00:02:51,040 --> 00:02:53,640
+enough sales to help the company be
+successful
+
+57
+00:02:53,640 --> 00:02:54,967
+and to reach the goals that you have.
+
+58
+00:02:54,967 --> 00:02:59,550
+So we're going to look at the income
+statement
+
+59
+00:02:59,550 --> 00:03:02,610
+as a tool for how to develop sales
+forecasts.
+
+60
+00:03:02,610 --> 00:03:04,150
+So there are a lot of financial statements
+that are
+
+61
+00:03:04,150 --> 00:03:06,370
+out there and we'll talk about some of
+those later.
+
+62
+00:03:06,370 --> 00:03:09,890
+They're normally the income statement, the
+balance sheet, the cash flow statement and
+
+63
+00:03:09,890 --> 00:03:13,170
+we'll talk about how those fit within
+business plans.
+
+64
+00:03:13,170 --> 00:03:14,640
+But what we see within the income
+
+65
+00:03:14,640 --> 00:03:17,670
+statement is at the top line, there's
+revenue.
+
+66
+00:03:17,670 --> 00:03:20,060
+What are we going to do in sales?
+
+67
+00:03:20,060 --> 00:03:24,300
+Typically on a quarterly, or annual basis,
+there are cost of goods
+
+68
+00:03:24,300 --> 00:03:29,550
+sold, which is, in a large part,
+manufacturing cost or production cost.
+
+69
+00:03:29,550 --> 00:03:33,452
+What's it take to produce that individual
+unit that we're selling.
+
+70
+00:03:33,452 --> 00:03:35,230
+There's SG and
+
+71
+00:03:35,230 --> 00:03:38,450
+A, which is selling, general and
+administrative, and a
+
+72
+00:03:38,450 --> 00:03:41,060
+big piece of that is the marketing and
+sales costs.
+
+73
+00:03:41,060 --> 00:03:43,610
+So, selling cost include marketing as
+well.
+
+74
+00:03:45,000 --> 00:03:46,390
+And when you begin to think about what are
+
+75
+00:03:46,390 --> 00:03:50,090
+the different pieces of the expenses, you
+add those up.
+
+76
+00:03:50,090 --> 00:03:51,960
+You get some sense of timeline, of what
+
+77
+00:03:51,960 --> 00:03:54,660
+are we going to spend, for what purpose,
+and
+
+78
+00:03:54,660 --> 00:03:57,840
+that guides you towards the answer of how
+much money do you need to start the firm.
+
+79
+00:03:59,460 --> 00:04:01,910
+Profits or
+
+80
+00:04:01,910 --> 00:04:07,690
+the result revenues minus expenses, taxes
+will be taken out of that as well.
+
+81
+00:04:07,690 --> 00:04:10,910
+Revenues and sales, again, synonymous
+terms,
+
+82
+00:04:10,910 --> 00:04:13,060
+means the same thing for our purposes.
+
+83
+00:04:13,060 --> 00:04:16,520
+So that's your price per unit times number
+sold.
+
+84
+00:04:16,520 --> 00:04:18,770
+Expenses come in a few different ways.
+
+85
+00:04:18,770 --> 00:04:21,940
+There are variable expenses, meaning that
+for every unit
+
+86
+00:04:21,940 --> 00:04:25,590
+of production, I have some cost associated
+with that.
+
+87
+00:04:25,590 --> 00:04:27,100
+There's material costs, there's labor
+
+88
+00:04:27,100 --> 00:04:31,610
+costs, there's energy costs, so there's
+other costs that I incur for every unit
+
+89
+00:04:31,610 --> 00:04:37,380
+produced or sold.
+There are fixed costs, one time costs.
+
+90
+00:04:37,380 --> 00:04:43,994
+What are a one time cost for a cafe?
+What kind of cost am I incurring one time?
+
+91
+00:04:43,994 --> 00:04:47,355
+>> The coffee machine?
+>> I may be buying equipment.
+
+92
+00:04:47,355 --> 00:04:52,284
+And that equipment might not last forever,
+but it's probably
+
+93
+00:04:52,284 --> 00:04:56,320
+going to last years, or 5 years, or 10
+years.
+
+94
+00:04:56,320 --> 00:04:58,150
+So it's largely one time.
+
+95
+00:04:59,660 --> 00:05:01,799
+What other one time costs am I incurring?
+
+96
+00:05:04,140 --> 00:05:07,510
+There's equipment, there's.
+>> real estate if you're buying.
+
+97
+00:05:07,510 --> 00:05:10,910
+>> Okay, if you going to buy the
+property, you have
+
+98
+00:05:10,910 --> 00:05:14,640
+a land cost, a building cost, that's
+going to be one time.
+
+99
+00:05:15,680 --> 00:05:21,400
+If you're going to rent the property, it's
+going to be a recurring fixed cost.
+
+100
+00:05:21,400 --> 00:05:26,600
+You sign your lease, it's $3000 a month,
+you pay that each and every month.
+
+101
+00:05:26,600 --> 00:05:28,770
+If you sell no product, you pay $3000.
+
+102
+00:05:28,770 --> 00:05:29,150
+If you
+
+103
+00:05:29,150 --> 00:05:32,280
+sell millions of product, you pay $3000.
+
+104
+00:05:32,280 --> 00:05:34,440
+So in that way, again, we have fixed costs
+
+105
+00:05:34,440 --> 00:05:37,132
+that are one time, but they also might be
+interval.
+
+106
+00:05:37,132 --> 00:05:41,110
+What about labor?
+What kind of cost is labor?
+
+107
+00:05:43,460 --> 00:05:45,120
+>> Isn't labor variable?
+
+108
+00:05:45,120 --> 00:05:48,090
+>> It's variable, so based on how much I
+sell,
+
+109
+00:05:48,090 --> 00:05:50,490
+I'm going to decide how much I'm going to
+pay my employees.
+
+110
+00:05:52,070 --> 00:05:54,310
+Who works, anybody work?
+
+111
+00:05:54,310 --> 00:05:56,400
+Okay.
+What do you make?
+
+112
+00:05:56,400 --> 00:05:57,708
+>> $9 bucks an hour.
+
+113
+00:05:57,708 --> 00:05:59,050
+>> $9 bucks an hour.
+
+114
+00:05:59,050 --> 00:06:02,920
+And if you have a busy hour, they pay you
+a little more?
+
+115
+00:06:02,920 --> 00:06:03,530
+>> No.
+
+116
+00:06:03,530 --> 00:06:06,380
+>> No.
+So is that a variable or fixed?
+
+117
+00:06:06,380 --> 00:06:09,730
+>> It's fixed.
+
+118
+00:06:09,730 --> 00:06:12,310
+>> Fixed.
+What happens if business is really bad?
+
+119
+00:06:12,310 --> 00:06:16,935
+What happens next month?
+>> I don't have any
+
+120
+00:06:16,935 --> 00:06:17,290
+[INAUDIBLE].
+
+121
+00:06:17,290 --> 00:06:19,420
+I would like to think it would stay the
+same because.
+
+122
+00:06:19,420 --> 00:06:22,180
+>> Oh, we would doubt that it would stay
+the same.
+
+123
+00:06:23,480 --> 00:06:24,485
+What's likely to happen?
+
+124
+00:06:24,485 --> 00:06:25,660
+[CROSSTALK].
+
+125
+00:06:25,660 --> 00:06:29,028
+You'd probably get scheduled for fewer
+hours.
+
+126
+00:06:29,028 --> 00:06:34,420
+So again, it's kind of fixed but it's kind
+of variable, so again, some
+
+127
+00:06:34,420 --> 00:06:36,540
+things might fit in different categories
+and
+
+128
+00:06:36,540 --> 00:06:38,420
+you might have different types of labor.
+
+129
+00:06:38,420 --> 00:06:40,710
+You might have salary where people make X
+dollars per
+
+130
+00:06:40,710 --> 00:06:43,630
+year, or X hours per hour, and that's
+pretty set.
+
+131
+00:06:43,630 --> 00:06:46,215
+You might have other people that are
+commissioned based.
+
+132
+00:06:46,215 --> 00:06:48,450
+Particularly sales people are often
+commission based.
+
+133
+00:06:49,490 --> 00:06:50,390
+What's commission?
+
+134
+00:06:50,390 --> 00:06:51,870
+>> I think
+
+135
+00:06:51,870 --> 00:06:56,400
+you get extra money on top of your, like,
+salary for how much you sell.
+
+136
+00:06:56,400 --> 00:07:01,566
+>> You make some percentage of your
+sale, so you might make 8, 10, $12
+
+137
+00:07:01,566 --> 00:07:07,060
+an hour, but you might make 3 or 5%
+commission in addition to that.
+
+138
+00:07:07,060 --> 00:07:09,150
+So in that way, again, it's an added
+incentive,
+
+139
+00:07:09,150 --> 00:07:12,260
+and so it's a combination of fixed and
+variable costs.
+
+140
+00:07:12,260 --> 00:07:14,050
+So, again, think about these when you're
+thinking
+
+141
+00:07:14,050 --> 00:07:16,920
+about your venture, and what types of cost
+
+142
+00:07:16,920 --> 00:07:19,140
+you incur, when, and for what purpose.
+
+143
+00:07:20,300 --> 00:07:22,840
+What that looks like, and this is just a,
+kind of a,
+
+144
+00:07:22,840 --> 00:07:28,150
+abbreviated income statement, is that you
+have your revenues on top, or sales.
+
+145
+00:07:28,150 --> 00:07:30,250
+For example in year one, we only, only
+
+146
+00:07:30,250 --> 00:07:33,460
+may have one product or one category of
+product.
+
+147
+00:07:33,460 --> 00:07:37,890
+We have expenses associated with that,
+there's some R&D cost, there's some
+
+148
+00:07:37,890 --> 00:07:39,910
+cost of goods sold, there's some
+
+149
+00:07:39,910 --> 00:07:42,620
+marketing, there's some salaries, and
+there
+
+150
+00:07:42,620 --> 00:07:45,310
+might be other pieces that are missing
+from this.
+
+151
+00:07:45,310 --> 00:07:49,270
+If you're doing a bricks and mortar, a
+face to face retail operation,
+
+152
+00:07:49,270 --> 00:07:53,090
+you would have lease or rent in there, you
+would have utilities in there.
+
+153
+00:07:55,040 --> 00:07:56,900
+So think about what cost makes sense
+
+154
+00:07:56,900 --> 00:07:59,310
+for the types of ventures that you're
+considering.
+
+155
+00:07:59,310 --> 00:08:03,510
+And there's going to be a pretax profit.
+Just simply revenues minus expenses.
+
+156
+00:08:03,510 --> 00:08:07,630
+There is taxes, taxes vary widely based
+
+157
+00:08:07,630 --> 00:08:10,350
+on the type of business you're in, the
+country
+
+158
+00:08:10,350 --> 00:08:13,180
+and the region and the city that you're
+operating within.
+
+159
+00:08:13,180 --> 00:08:16,754
+So again, the 20% here is just an example.
+
+160
+00:08:16,754 --> 00:08:19,210
+you want to be aware of what the taxes are
+wherever you're operating.
+
+161
+00:08:20,210 --> 00:08:26,260
+After tax is simply profit, minus tax.
+And then your net profit margin is that
+
+162
+00:08:26,260 --> 00:08:32,770
+profit after tax divided by your revenues.
+When you look at
+
+163
+00:08:32,770 --> 00:08:38,390
+year two, our revenues went up.
+Why is that a reasonable assumption?
+
+164
+00:08:41,150 --> 00:08:43,040
+Yep.
+>> Your product is more known.
+
+165
+00:08:43,040 --> 00:08:45,310
+>> Okay, you begin to build a brand.
+
+166
+00:08:45,310 --> 00:08:46,670
+>> You could also release a second
+product.
+
+167
+00:08:46,670 --> 00:08:50,280
+>> You released a second product, as
+what we see here.
+
+168
+00:08:50,280 --> 00:08:53,420
+>> you're not paying to start things up
+again.
+
+169
+00:08:53,420 --> 00:08:56,215
+>> You aren't paying as much R&D.
+
+170
+00:08:57,340 --> 00:09:00,930
+And again, and here we don't see a fixture
+
+171
+00:09:00,930 --> 00:09:04,910
+or facility or other element, but in
+practice you may.
+
+172
+00:09:04,910 --> 00:09:06,410
+so again, you might not have incurred
+
+173
+00:09:06,410 --> 00:09:10,650
+some of those start-up costs again, but
+here we do see R&D is lower.
+
+174
+00:09:10,650 --> 00:09:11,610
+What is higher?
+
+175
+00:09:14,020 --> 00:09:14,530
+>> Marketing.
+>> Marketing.
+
+176
+00:09:16,940 --> 00:09:24,000
+It would make sense that if we take our
+marketing budget from $15,000 to $70,000,
+
+177
+00:09:24,000 --> 00:09:29,070
+that our marketing should be better.
+That it should generate more sales.
+
+178
+00:09:31,900 --> 00:09:34,375
+Oftentimes I see this misrepresented,
+where people
+
+179
+00:09:34,375 --> 00:09:36,465
+think they're going to spend a lot in
+marketing
+
+180
+00:09:36,465 --> 00:09:38,610
+to begin with, and then that's going to
+decline
+
+181
+00:09:38,610 --> 00:09:40,770
+over time and their sales are going to
+increase.
+
+182
+00:09:41,790 --> 00:09:45,120
+Marketing and sales tend to be somewhat
+complimentary.
+
+183
+00:09:45,120 --> 00:09:48,300
+You tend have to put more in marketing to
+get more sales.
+
+184
+00:09:48,300 --> 00:09:51,670
+And to keep sales high you need to put
+more in marketing.
+
+185
+00:09:51,670 --> 00:09:53,460
+So in that way, again, you do benefit from
+
+186
+00:09:53,460 --> 00:09:56,920
+brand, maybe you benefit from repeat
+customers, maybe there
+
+187
+00:09:56,920 --> 00:10:00,070
+are the partnerships you establish that
+contribute to sales.
+
+188
+00:10:00,070 --> 00:10:03,250
+But be careful not to under-invest in
+
+189
+00:10:03,250 --> 00:10:06,150
+marketing or try and contract your
+marketing.
+
+190
+00:10:06,150 --> 00:10:10,670
+What about salaries?
+We're paying 5K the first year.
+
+191
+00:10:13,680 --> 00:10:14,930
+Not a very good salary.
+
+192
+00:10:14,930 --> 00:10:22,100
+>> well you could of given out a raise
+or hire more employees.
+
+193
+00:10:22,100 --> 00:10:25,080
+>> But what are we getting for 5K a year
+in year one?
+
+194
+00:10:27,070 --> 00:10:33,570
+So to give you a sense of what 5K is, if
+it's 50 weeks, it's how much a week?
+
+195
+00:10:33,570 --> 00:10:35,196
+>> 500.
+>> Nope.
+
+196
+00:10:35,196 --> 00:10:35,196
+>>
+
+197
+00:10:35,196 --> 00:10:36,834
+[INAUDIBLE].
+
+198
+00:10:36,834 --> 00:10:41,310
+>> {INAUDIBLE] Have to take a refresher
+math course.
+
+199
+00:10:43,440 --> 00:10:44,760
+>> It's a hundred.
+>> It's a hundred.
+
+200
+00:10:44,760 --> 00:10:47,880
+5000 divided by 50, a
+
+201
+00:10:51,300 --> 00:10:52,070
+hundred a week.
+
+202
+00:10:53,270 --> 00:10:56,560
+So, most entrepreneurs, you're at a 50, 60
+hour
+
+203
+00:10:56,560 --> 00:11:00,270
+a week, so you're making about 2 bucks an
+hour.
+
+204
+00:11:02,568 --> 00:11:02,568
+>>
+
+205
+00:11:02,568 --> 00:11:04,312
+[CROSSTALK].
+
+206
+00:11:04,312 --> 00:11:05,014
+>> Good wage?
+>>
+
+207
+00:11:05,014 --> 00:11:05,840
+[CROSSTALK].
+
+208
+00:11:05,840 --> 00:11:08,010
+>> And there might be two or three or
+four of
+
+209
+00:11:08,010 --> 00:11:10,340
+you working on it, so you're making about
+$0.50 an hour.
+
+210
+00:11:10,340 --> 00:11:10,340
+>>
+
+211
+00:11:10,340 --> 00:11:12,997
+[CROSSTALK].
+
+212
+00:11:15,123 --> 00:11:17,910
+>> You save up all day, you can go to
+Starbucks.
+
+213
+00:11:17,910 --> 00:11:20,380
+You'd probably have to share it with your
+team.
+
+214
+00:11:22,020 --> 00:11:23,220
+Why do we do such things?
+
+215
+00:11:26,220 --> 00:11:30,120
+>> For the future, because.
+>> because we have a future mindset.
+
+216
+00:11:30,120 --> 00:11:35,250
+So it's not uncommon that there may be few
+if any dollars,
+
+217
+00:11:35,250 --> 00:11:39,100
+particularly for the founders and the
+executives of the team, in the beginning.
+
+218
+00:11:39,100 --> 00:11:42,150
+And you worked largely for free for a
+period of time.
+
+219
+00:11:44,510 --> 00:11:47,691
+And that's typically the norm.
+How do you pay your rent?
+
+220
+00:11:47,691 --> 00:11:49,361
+How do you make your car payment?
+
+221
+00:11:49,361 --> 00:11:52,880
+How do you eat?
+>> Second job.
+
+222
+00:11:52,880 --> 00:11:55,380
+>> You might work somewhere else.
+
+223
+00:11:55,380 --> 00:11:58,210
+Hard, in my experience, to start a company
+
+224
+00:11:58,210 --> 00:12:02,770
+successfully while you're working full
+time somewhere else.
+
+225
+00:12:02,770 --> 00:12:05,680
+So there's an element again, of kind of
+how do I manage my time?
+
+226
+00:12:05,680 --> 00:12:09,580
+Do I work full time somewhere and start my
+venture at night and on the weekend?
+
+227
+00:12:09,580 --> 00:12:11,730
+Do I work part time at night on
+
+228
+00:12:11,730 --> 00:12:14,410
+the weekend and start my venture during
+the day?
+
+229
+00:12:14,410 --> 00:12:15,390
+What else might you do?
+
+230
+00:12:15,390 --> 00:12:16,820
+>> Take loans.
+
+231
+00:12:18,160 --> 00:12:21,495
+>> You might take loans but, again, in
+the beginning
+
+232
+00:12:21,495 --> 00:12:24,580
+it's going to be hard for your venture to
+get funding.
+
+233
+00:12:24,580 --> 00:12:27,140
+And banks want what when they make loans?
+
+234
+00:12:27,140 --> 00:12:30,650
+>> Interest.
+>> Interest in?
+
+235
+00:12:30,650 --> 00:12:34,693
+>> Future profitability.
+>> What do they, when you
+
+236
+00:12:34,693 --> 00:12:41,440
+get a loan, what do banks typically like?
+Starts with a C.
+
+237
+00:12:41,440 --> 00:12:41,752
+>> Cash.
+
+238
+00:12:41,752 --> 00:12:45,830
+>> Credit, cash money?
+>> Ends with an L.
+
+239
+00:12:45,830 --> 00:12:45,830
+>>
+
+240
+00:12:45,830 --> 00:12:46,100
+[INAUDIBLE].
+
+241
+00:12:46,100 --> 00:12:51,500
+>> Second letter's O.
+>> Collateral.
+
+242
+00:12:51,500 --> 00:12:52,940
+>> Collateral.
+
+243
+00:12:52,940 --> 00:12:55,980
+What is collateral?
+>> Like your house or your car.
+
+244
+00:12:55,980 --> 00:12:59,940
+>> Collateral are assets.
+I borrow money to buy a house.
+
+245
+00:12:59,940 --> 00:13:02,055
+I don't pay my mortgage, what happens to
+my house?
+
+246
+00:13:02,055 --> 00:13:02,055
+>>
+
+247
+00:13:02,055 --> 00:13:02,735
+[INAUDIBLE].
+
+248
+00:13:02,735 --> 00:13:03,460
+>> Bank owns it.
+
+249
+00:13:03,460 --> 00:13:05,330
+I borrowed money for a car, I stopped
+paying
+
+250
+00:13:05,330 --> 00:13:08,980
+my car payment, bank comes picks up my
+car.
+
+251
+00:13:10,720 --> 00:13:13,300
+So again, you might be able to get loans
+in the beginning but
+
+252
+00:13:13,300 --> 00:13:15,750
+they're probably going to be personal
+loans,
+
+253
+00:13:16,750 --> 00:13:19,070
+meaning that you have to have collateral.
+
+254
+00:13:19,070 --> 00:13:22,080
+If you don't have collateral, might be
+hard to get a loan.
+
+255
+00:13:23,810 --> 00:13:24,960
+People heard of savings?
+
+256
+00:13:26,350 --> 00:13:28,130
+Kind of rare these days.
+
+257
+00:13:28,130 --> 00:13:32,310
+A lot of entrepreneurs have saved some
+money, and
+
+258
+00:13:32,310 --> 00:13:35,940
+or, just live cheaply to get their
+ventures moving.
+
+259
+00:13:37,390 --> 00:13:39,399
+And that way they can put their full
+attention to it.
+
+260
+00:13:42,540 --> 00:13:45,640
+And take advantage of the opportunities
+that they see ahead of them.
+
+261
+00:13:45,640 --> 00:13:50,980
+So again, this is the starting point for
+thinking about sales forecast and
+
+262
+00:13:50,980 --> 00:13:53,700
+this is kind of what you want to end up
+with in the end.
+
+263
+00:13:53,700 --> 00:13:55,555
+When you're doing your investor
+presentations, when
+
+264
+00:13:55,555 --> 00:13:57,340
+you're doing your business plans, you'd
+like
+
+265
+00:13:57,340 --> 00:14:00,920
+to be able to craft something that kind of
+looks like this in the end.
+
+266
+00:14:00,920 --> 00:14:03,060
+But there's a question of where do you
+start?
+
+267
+00:14:04,430 --> 00:14:06,780
+What numbers do you start putting in
+initially?
+
+268
+00:14:08,370 --> 00:14:09,570
+What's the first number you put in?
+>>
+
+269
+00:14:09,570 --> 00:14:13,820
+[INAUDIBLE].
+
+270
+00:14:13,820 --> 00:14:15,000
+>> Expenses or revenue?
+
+271
+00:14:15,000 --> 00:14:21,050
+>> Expenses, but again I don't quite
+know what my expenses are.
+
+272
+00:14:21,050 --> 00:14:27,360
+Maybe I know that I need a location and
+maybe that's $3,000 a month.
+
+273
+00:14:27,360 --> 00:14:29,880
+Maybe I know that I need some equipment
+and that's $10,000 a month.
+
+274
+00:14:29,880 --> 00:14:34,380
+But I don't necessarily know how much
+labor I need.
+
+275
+00:14:34,380 --> 00:14:38,350
+I don't necessarily know much inventory I
+need.
+
+276
+00:14:38,350 --> 00:14:39,000
+So there's
+
+277
+00:14:39,000 --> 00:14:42,635
+still some gaps.
+So where else do you start?
+
+278
+00:14:42,635 --> 00:14:46,350
+because it is a bit of a puzzle.
+What was your, somebody said another?
+
+279
+00:14:46,350 --> 00:14:50,930
+>> Was it the.
+>> Where do you start?
+
+280
+00:14:50,930 --> 00:14:52,390
+You might start with the revenues.
+
+281
+00:14:52,390 --> 00:14:54,480
+We like to start in the upper left-hand
+corner.
+
+282
+00:14:57,088 --> 00:14:59,950
+To cling to English system, that's where
+we start reading, so we
+
+283
+00:14:59,950 --> 00:15:03,110
+look to that upper-left and we think that,
+that's our starting point.
+
+284
+00:15:04,120 --> 00:15:07,110
+So what do you put down for your year one
+revenues?
+
+285
+00:15:07,110 --> 00:15:09,810
+When you think about the ventures that
+you're going to start?
+
+286
+00:15:09,810 --> 00:15:11,010
+What's your year one revenue goal?
+
+287
+00:15:11,010 --> 00:15:18,910
+>> At least break even.
+>> At least break even but
+
+288
+00:15:18,910 --> 00:15:22,220
+you don't know yet what your expenses are.
+So you can't
+
+289
+00:15:22,220 --> 00:15:25,555
+set it to break even without knowing your
+expenses, so what's your revenue goal?
+
+290
+00:15:25,555 --> 00:15:30,392
+[SOUND].
+
+291
+00:15:30,392 --> 00:15:32,810
+Yep.
+
+292
+00:15:32,810 --> 00:15:36,930
+>> Manufacturing costs and all the other
+costs plus your.
+
+293
+00:15:36,930 --> 00:15:40,530
+>> But you don't know what your
+manufacturing costs are
+
+294
+00:15:40,530 --> 00:15:44,490
+unless you know what your sales are
+going to be, right?
+
+295
+00:15:44,490 --> 00:15:45,990
+So it's a bit of a chicken and egg.
+
+296
+00:15:45,990 --> 00:15:46,180
+Yep.
+
+297
+00:15:46,180 --> 00:15:47,380
+>> It'd be like the money you put
+
+298
+00:15:47,380 --> 00:15:50,100
+into actually start up, like, the company
+or business.
+
+299
+00:15:50,100 --> 00:15:52,690
+>> You might not have a sense of how
+
+300
+00:15:52,690 --> 00:15:55,530
+much you need to put in without knowing
+your expenses,
+
+301
+00:15:55,530 --> 00:15:57,520
+which you don't know unless you know your
+revenues.
+
+302
+00:15:57,520 --> 00:16:00,800
+So where do you start?
+
+303
+00:16:00,800 --> 00:16:02,890
+because you guys are going to be doing
+this later today.
+
+304
+00:16:05,820 --> 00:16:11,070
+What's your starting point?
+>> Find out market research.
+
+305
+00:16:12,420 --> 00:16:13,580
+>> What does that do for you?
+
+306
+00:16:13,580 --> 00:16:19,540
+>> How many people you're going to sell
+to.
+
+307
+00:16:19,540 --> 00:16:20,900
+>> How many people you're going to sell
+to.
+
+308
+00:16:20,900 --> 00:16:22,340
+It's a bit tricky.
+
+309
+00:16:22,340 --> 00:16:23,610
+It's a bit tricky.
+
+310
+00:16:23,610 --> 00:16:25,820
+I would argue that you would start on
+
+311
+00:16:25,820 --> 00:16:29,210
+thinking about the profit and the profit
+margin.
+
+312
+00:16:31,430 --> 00:16:35,750
+How do I know profit margin?
+Seems like an odd place to start.
+
+313
+00:16:35,750 --> 00:16:37,790
+How do I know profit margin for my
+business?
+
+314
+00:16:40,310 --> 00:16:40,810
+How
+
+315
+00:16:45,530 --> 00:16:49,170
+do you know what the temperature is
+outside?
+
+316
+00:16:49,170 --> 00:16:50,480
+>> {INAUDIBLE].
+
+317
+00:16:50,480 --> 00:16:51,680
+>> Forecast.
+
+318
+00:16:51,680 --> 00:16:55,073
+>> You don't forecast it.
+What's the temperature outside now?
+
+319
+00:16:55,073 --> 00:16:55,073
+>>
+
+320
+00:16:55,073 --> 00:16:57,322
+[INAUDIBLE].
+
+321
+00:16:57,322 --> 00:16:59,348
+>> How do you know?
+>> Look it up.
+
+322
+00:16:59,348 --> 00:17:02,575
+>> You look it up.
+You look it up.
+
+323
+00:17:02,575 --> 00:17:06,209
+There is significant research out there on
+what are the
+
+324
+00:17:06,209 --> 00:17:11,800
+profit margins on average for various
+industries and market sectors.
+
+325
+00:17:11,800 --> 00:17:14,320
+So again, you look it up, you figure
+
+326
+00:17:14,320 --> 00:17:17,690
+out what's the average profit margin for
+my industry.
+
+327
+00:17:19,165 --> 00:17:23,540
+Now what do we know about averages?
+>> Half
+
+328
+00:17:23,540 --> 00:17:26,250
+are above.
+>> Half are above and half are below.
+
+329
+00:17:27,350 --> 00:17:29,680
+So for you, if you're in a, operating in a
+
+330
+00:17:29,680 --> 00:17:32,556
+premium market, you might be a little bit
+above that.
+
+331
+00:17:32,556 --> 00:17:36,780
+If you're a start-up and don't have the
+economies of scale of
+
+332
+00:17:36,780 --> 00:17:40,450
+a lot of companies, you might be a little
+bit below that.
+
+333
+00:17:40,450 --> 00:17:42,530
+But it gives you at least a starting point
+of
+
+334
+00:17:42,530 --> 00:17:45,650
+thinking about what's the average profit
+margin in my industry.
+
+335
+00:17:45,650 --> 00:17:48,580
+If you know profit margin, you can begin
+to
+
+336
+00:17:48,580 --> 00:17:54,350
+get a sense of what your income goals are
+and what your profit
+
+337
+00:17:54,350 --> 00:17:59,040
+needs to be to reach those income goals
+and then
+
+338
+00:17:59,040 --> 00:18:04,110
+you can back out your revenues from there.
+And we'll look at how to do that.
+
+339
+00:18:04,110 --> 00:18:07,380
+Once you have a revenue target in mind,
+then you can
+
+340
+00:18:07,380 --> 00:18:11,760
+figure out what expenses do I incur to
+reach that revenue goal.
+
+341
+00:18:11,760 --> 00:18:13,350
+So again,
+
+342
+00:18:13,350 --> 00:18:17,299
+start with profit margins and profit
+dollars.
+
+343
+00:18:20,160 --> 00:18:24,220
+From there you can get to revenues, and
+from there you can get to expenses.
+
+344
+00:18:24,220 --> 00:18:27,280
+So how we do that is using this concept
+called a
+
+345
+00:18:27,280 --> 00:18:31,510
+reverse income statement, where you start
+with some element of profit.
+
+346
+00:18:34,210 --> 00:18:38,798
+And for many people their profit, their
+year one, their
+
+347
+00:18:38,798 --> 00:18:42,690
+year two profit is going to be some
+element of opportunity cost,
+
+348
+00:18:47,890 --> 00:18:51,860
+of what is it that you might be foregoing
+to start this venture.
+
+349
+00:18:51,860 --> 00:18:53,880
+And most people would like to at least
+have
+
+350
+00:18:53,880 --> 00:18:57,480
+enough in the end that they could cover
+their salaries.
+
+351
+00:19:03,260 --> 00:19:07,090
+And so if you have a two person team, if
+once everything is
+
+352
+00:19:07,090 --> 00:19:10,250
+said and done and once you've paid all of
+your expenses, if you
+
+353
+00:19:10,250 --> 00:19:13,980
+wanted to be able to take home $50,000
+each at the end of
+
+354
+00:19:13,980 --> 00:19:18,038
+year one, then you would have a year one
+profit goal of $100,000.
+
+355
+00:19:19,120 --> 00:19:23,440
+If the average profit margin in your
+industry is 20%,
+
+356
+00:19:23,440 --> 00:19:28,480
+you need $500,000 in revenue for the 20%
+profit of that
+
+357
+00:19:28,480 --> 00:19:32,440
+to equal the $100,000 that is your goal.
+Does
+
+358
+00:19:34,700 --> 00:19:35,440
+that make sense?
+
+359
+00:19:39,400 --> 00:19:43,040
+And so, in that way, to know I have this
+$500,000,
+
+360
+00:19:43,040 --> 00:19:46,090
+there's a question of what do I do to get
+to that?
+
+361
+00:19:46,090 --> 00:19:47,940
+How do I reach that?
+
+362
+00:19:47,940 --> 00:19:49,300
+And so then we go down the path
+
+363
+00:19:49,300 --> 00:19:52,278
+of incorporating other assumptions and
+thinking about the expenses.
+
+364
+00:19:52,278 --> 00:20:00,220
+Now that 20%, again, how did I get that?
+And there are a variety of resources
+
+365
+00:20:00,220 --> 00:20:04,800
+out there, I have a link here for some
+work that the business school in NYU
+
+366
+00:20:04,800 --> 00:20:06,250
+has put together.
+
+367
+00:20:06,250 --> 00:20:08,170
+And again this a sample, if you go to
+
+368
+00:20:08,170 --> 00:20:11,730
+this link you'll see dozens and dozens of
+various industries.
+
+369
+00:20:12,780 --> 00:20:18,570
+Industries listed, but for apparel, for
+example, based on the 54 firms
+
+370
+00:20:18,570 --> 00:20:24,314
+that they surveyed, on the far right-hand
+side, you'll see 6.59%
+
+371
+00:20:24,314 --> 00:20:28,820
+as the average net profit margin for
+apparel.
+
+372
+00:20:29,830 --> 00:20:32,750
+So that could be the number that you would
+start
+
+373
+00:20:32,750 --> 00:20:37,010
+with as you are beginning to think about
+your venture.
+
+374
+00:20:38,170 --> 00:20:41,320
+Now you can flex that, you can add a
+little to it, you can subtract
+
+375
+00:20:41,320 --> 00:20:43,360
+some from it, thinking about where you
+
+376
+00:20:43,360 --> 00:20:45,130
+operate, but it gives you a starting
+point.
+
+377
+00:20:46,300 --> 00:20:49,090
+And the income statements are a bit of a
+puzzle as well,
+
+378
+00:20:49,090 --> 00:20:52,020
+you begin building it out and somethings
+fit and other things don't.
+
+379
+00:20:52,020 --> 00:20:54,870
+And then you, again, revise and amend some
+of
+
+380
+00:20:54,870 --> 00:20:57,520
+those and add some things, and take some
+things out
+
+381
+00:20:57,520 --> 00:21:00,610
+to get to something that you believe is
+realistic and comfortable.
+
+382
+00:21:00,610 --> 00:21:02,920
+But, the orientation here is that, again,
+
+383
+00:21:02,920 --> 00:21:06,140
+to pick a revenue goal is somewhat
+arbitrary.
+
+384
+00:21:06,140 --> 00:21:08,150
+To say I want to make a $100,000, I want
+to make
+
+385
+00:21:08,150 --> 00:21:11,460
+a million, I want to make a hundred
+million, it's kind of random.
+
+386
+00:21:14,560 --> 00:21:19,330
+To go through and do expenses, you're just
+kind of operating in the dark
+
+387
+00:21:19,330 --> 00:21:21,330
+without knowing what revenues are we
+trying
+
+388
+00:21:21,330 --> 00:21:25,560
+to achieve, but again, profit people
+understand.
+
+389
+00:21:25,560 --> 00:21:27,920
+Profit as far as, what are we going to
+take home as the owners
+
+390
+00:21:27,920 --> 00:21:31,990
+or the founders of the company, I think is
+a little more tangible.
+
+391
+00:21:31,990 --> 00:21:35,640
+And so, again, when you start with that
+profit, you recognize your margin.
+
+392
+00:21:35,640 --> 00:21:39,000
+You back out what your revenue targets are
+from there.
+
+393
+00:21:39,000 --> 00:21:39,620
+And then you can
+
+394
+00:21:39,620 --> 00:21:42,590
+figure out what expenses is it going to
+take to reach that level of revenue.
+
+395
+00:21:46,200 --> 00:21:48,370
+So from there, there is the question of,
+well once we know
+
+396
+00:21:48,370 --> 00:21:52,180
+the revenue and profit goals we need to
+fill out the expenses.
+
+397
+00:21:52,180 --> 00:21:57,680
+If you are a new company in a new market
+without a lot of other companies to
+
+398
+00:21:57,680 --> 00:22:00,130
+look at, you really have to think about
+well,
+
+399
+00:22:00,130 --> 00:22:03,420
+what are each line item expense we're
+going to incur.
+
+400
+00:22:03,420 --> 00:22:06,175
+Do we need a facility?
+Do we need inventory?
+
+401
+00:22:06,175 --> 00:22:08,650
+Do we need equipment?
+Do we need marketing?
+
+402
+00:22:08,650 --> 00:22:12,090
+Do we need this and that, and you build
+that up incrementally.
+
+403
+00:22:12,090 --> 00:22:15,830
+If you are working in a space where there
+are some existing players, particularly if
+
+404
+00:22:15,830 --> 00:22:20,210
+they are public companies, you can see
+what they spend on a per item basis.
+
+405
+00:22:20,210 --> 00:22:24,640
+And that gives you some sense of what the
+industry norms are as well.
+
+406
+00:22:24,640 --> 00:22:30,650
+And then you can see, for example in
+apparel, if you look at the Gaps and the
+
+407
+00:22:30,650 --> 00:22:32,130
+others that are out there, and you see
+that,
+
+408
+00:22:32,130 --> 00:22:37,110
+well they spend $400 million a year on
+marketing,
+
+409
+00:22:37,110 --> 00:22:38,920
+is that what you're going to spend in year
+one?
+
+410
+00:22:40,210 --> 00:22:46,657
+No, but if their marketing expense is 30%
+
+411
+00:22:46,657 --> 00:22:52,570
+of their sales, what can you do when you
+know your revenue target?
+
+412
+00:22:57,560 --> 00:22:59,120
+What's the logical way to use that data?
+
+413
+00:23:01,290 --> 00:23:04,850
+Who's my apparel folks?
+Okay, what do you do with that?
+
+414
+00:23:04,850 --> 00:23:10,909
+Just start in the middle.
+What do you do with that number?
+
+415
+00:23:13,180 --> 00:23:16,010
+>> Sorry, could you repeat the question?
+
+416
+00:23:16,010 --> 00:23:20,790
+>> So Gap spends 30% of their sales on
+marketing, how much did you spend?
+
+417
+00:23:20,790 --> 00:23:25,450
+>> Since we're new, I don't think we can
+
+418
+00:23:25,450 --> 00:23:28,310
+spend more than 30 or probably less, like
+10%.
+
+419
+00:23:28,310 --> 00:23:28,810
+>> 10%.
+>> 10.
+
+420
+00:23:30,060 --> 00:23:32,393
+>> I would argue more.
+Why more?
+
+421
+00:23:32,393 --> 00:23:33,968
+>> I was going to say more because since
+we're a
+
+422
+00:23:33,968 --> 00:23:35,604
+new company and we need to get our name
+out.
+
+423
+00:23:35,604 --> 00:23:38,192
+>> You are new.
+People don't know you.
+
+424
+00:23:38,192 --> 00:23:40,835
+People don't know you're Gap.
+People don't know you're Old Navy.
+
+425
+00:23:40,835 --> 00:23:44,456
+People don't know you're Banana Republic.
+
+426
+00:23:44,456 --> 00:23:50,790
+Means you might need to spend 35, 40, 45%
+of your revenues on marketing.
+
+427
+00:23:54,640 --> 00:23:58,460
+So in that way, it gives you some sense of
+starting point and
+
+428
+00:23:58,460 --> 00:24:02,970
+what has it taken for industry leaders to
+have success in their space.
+
+429
+00:24:04,560 --> 00:24:07,600
+In summary, when we look at sales
+forecast, and we recognize that it is
+
+430
+00:24:07,600 --> 00:24:10,080
+a first step to being able to
+
+431
+00:24:10,080 --> 00:24:12,449
+develop reasonable financial statements
+for the firm.
+
+432
+00:24:14,200 --> 00:24:16,160
+Also when you do these sales forecasts, I
+would
+
+433
+00:24:16,160 --> 00:24:19,320
+certainly advise you to think about this
+goal setting approach.
+
+434
+00:24:19,320 --> 00:24:19,790
+Think about
+
+435
+00:24:19,790 --> 00:24:21,410
+the reverse income statement.
+
+436
+00:24:21,410 --> 00:24:23,400
+Think about this as a helpful starting
+point
+
+437
+00:24:23,400 --> 00:24:26,506
+for developing sales forecasts that are
+real, sales forecasts
+
+438
+00:24:26,506 --> 00:24:29,250
+that are achievable, and sales forecasts
+that will help
+
+439
+00:24:29,250 --> 00:24:31,400
+you reach the goals for you and your
+organization.
+
