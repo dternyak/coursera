@@ -1,0 +1,23 @@
+I organised a summer school last month and now I want to evaluation how good was the event to the participants, as well as get suggestions for the next event. The dimensions that I want to measure are the overall satisfaction, feedback about the seminars and collect suggestion for the next summer school.
+
+
+1) How convenient did you find Malaga as a location in Spain? 
+(Very Poor, Poor, Average, Good, Very Good)
+
+2. original) How did you rate the University of Malaga as a choice of venue for the event?  
+(Very Poor, Poor, Average, Good, Very Good)
+
+2. alternative) How convenient did you found the University of Malaga as a host for this event?
+(Very Inconvenient, Inconvenient, Neutral, Convenient, Very Convenient)
+
+3) How valuable did you rate the content of the Machine Learning seminar to your overall training?  
+(Very Poor, Poor, Average, Good, Very Good)
+
+4) How valuable did you rate the content of the Computational Linguistic seminar to your overall training?  
+(Very Poor, Poor, Average, Good, Very Good)
+
+5) With regards to the length of the event, would you say that a 3 day event was: 
+(Too long, Just right, Too short) 
+
+6) Please provide your suggestions for the next summer school: 
+(open question)
