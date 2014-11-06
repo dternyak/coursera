@@ -1,11 +1,12 @@
-coursera - R Programming
+R Programming
 ========
+
 URL: https://www.coursera.org/course/rprog
 
-Tips and solutions to the Quizzes:
-- see folder "quizzes"
+* Tips and solutions to the Quizzes:
+	* see folder "quizzes"
 
 
-Solutions to the assignments:
-- see folder assignments
+* Solutions to the assignments:
+	* see folder assignments
 
