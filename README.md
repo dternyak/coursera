@@ -1,3 +1,30 @@
+My courses
+================================
+
+Tips and solutions for all the courses I enrolled.
+* Completed
+	* Pensamiento Algorítmico [Coursera]
+	* The Data Scientist's Toolbox (Data Science - Specialization) [Coursera]
+	* R Programming (Data Science - Specialization) [Coursera]
+	* Initiation a la programmation (en Java) [Coursera]
+	* Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship. (Entrepreneurship: Launching an Innovative Business - Specialization) [Coursera]
+
+* Doing
+	* Questionnaire Design for Social Surveys [Coursera]
+	* Programming for Everybody (Python) [Coursera]
+	* An Introduction to Interactive Programming in Python (Fundamentals of Computing - Specialization) [Coursera] 
+	* Approaches to Machine Translation Rule-based, Statistical and Hybrid [Universitat Politècnica de Catalunya, BarcelonaTech]
+
+
+
+
+
+
+
+
+
+
+### Follow me on
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -27,23 +54,3 @@
 [2]: https://www.facebook.com/hernani.costa.161
 [3]: https://plus.google.com/+HernaniCosta
 [4]: https://github.com/hpcosta
-
-
-
-
-My courses
-================================
-
-Tips and solutions for all the courses I enrolled.
-* Completed
-	* Pensamiento Algorítmico [Coursera]
-	* The Data Scientist's Toolbox (Data Science - Specialization) [Coursera]
-	* R Programming (Data Science - Specialization) [Coursera]
-	* Initiation a la programmation (en Java) [Coursera]
-	* Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship. (Entrepreneurship: Launching an Innovative Business - Specialization) [Coursera]
-
-* Doing
-	* Questionnaire Design for Social Surveys [Coursera]
-	* Programming for Everybody (Python) [Coursera]
-	* An Introduction to Interactive Programming in Python (Fundamentals of Computing - Specialization) [Coursera] 
-	* Approaches to Machine Translation Rule-based, Statistical and Hybrid [Universitat Politècnica de Catalunya, BarcelonaTech]
