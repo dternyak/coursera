@@ -9,3 +9,6 @@ URL: https://class.coursera.org/pythonlearn-003
 
 * Solutions to the assignments:
 	* see folder assignments
+
+* Solutions to the exam:
+	* see folder exam

@@ -14,7 +14,7 @@ Tips and solutions for all the courses I enrolled.
 	* Programming for Everybody (Python) [Coursera]
 	* An Introduction to Interactive Programming in Python (Fundamentals of Computing - Specialization) [Coursera] 
 	* Approaches to Machine Translation Rule-based, Statistical and Hybrid [Universitat Politècnica de Catalunya, BarcelonaTech]
-
+	* Corpus Linguistics: Method, Analysis, Interpretation [FutureLearn]
 
 
 
