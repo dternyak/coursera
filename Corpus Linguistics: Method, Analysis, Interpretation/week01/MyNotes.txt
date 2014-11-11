@@ -1,0 +1,25 @@
+Part1 - Why use a corpus?
+###########################
+Why use a corpus?
+- large amounts/collection of data tell us about tendencies and what's normal or typical in real-life language use
+- corpora also reveal instances of very rar or exceptional cases, that we wouldn't get from looking at single texts or introspection
+- human researchers make mistakes and are slow. computers are much quicker and more accurate
+- the computer allows us to do it swiftly and reliably, 
+
+Design criteria:
+- Research question crucially determines whether that corpus is going to be useful to or not
+Criteria in building a corpus
+- it must be a large body of text (depending on the needs/ purpose)
+- it needs to be representative of language (or a genre of language)
+- must be in machine-readable form (e.g. txt files on a computer - the computer must be able to analise the individual words)
+- acts as a standard reference about what's typical in language (it can act as some type of nominal standard reference about what is typical in a language, if the corpus is built to be broadly representative of the language - e.g. British National Corpus, which had the aim of being broadly representative of British English)
+- often annotated with additional linguistic information - e.g. grammatical codes
+
+
+
+Part2 - Annotation and Mark-up
+###########################
+we can use mark-up to improve the quality of your searches through the data
+
+
+

@@ -1,0 +1,7 @@
+Part 2: annotation and mark-up
+
+Tony McEnery gives a brief overview of how corpus texts may be enriched with additional information to ease analysis.
+
+Note that this type of additional information may be called ‘mark up’, ‘annotation’, or ‘tagging’. All three terms are near synonyms. Annotation usually refers to linguistic information encoded in a corpus - however, the encoding is achieved using a mark-up language. Similarly, the annotation itself is usually undertaken by putting so called tags - short codes to indicate some linguistics feature - into a text. Hence, while the terms can be separated, they can also be used inter-changeably!
+
+One final note - an xml tag finishes with a forward slash rather than a back slash.

@@ -1,0 +1,3 @@
+Part 1: why use a corpus?
+
+Tony McEnery gives a brief review of why you might want to use a corpus and decisions to make when building a corpus.
