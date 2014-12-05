@@ -1,0 +1,3 @@
+I don't have the solutions! I'm doing the course on the fly and I don't have time to save the solutions...
+
+http://www.codecademy.com/en/tracks/python
