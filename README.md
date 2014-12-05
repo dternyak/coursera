@@ -9,8 +9,9 @@ Here you can find tips and solutions for some of the courses I enrolled.
 
 * Completed
 	* Pensamiento Algorítmico [Coursera]
-	* The Data Scientist's Toolbox (Data Science - Specialization) [Coursera]
-	* R Programming (Data Science - Specialization) [Coursera]
+	* Data Science - Specialization [Coursera]
+		* 0) The Data Scientist's Toolbox 
+		* 1) R Programming 
 	* Initiation a la programmation (en Java) [Coursera]
 	* Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship. (Entrepreneurship: Launching an Innovative Business - Specialization) [Coursera]
 	* Questionnaire Design for Social Surveys [Coursera]
