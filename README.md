@@ -6,6 +6,7 @@ Here you can find tips and solutions for some of the courses I enrolled.
 * Doing
 	* Python - http://www.codecademy.com/en/tracks/python [Codecademy]
 	* Corpus Linguistics: Method, Analysis, Interpretation [FutureLearn]
+	* A hands-on introduction to statistics with R [DataCamp]
 
 * Completed
 	* Pensamiento Algorítmico [Coursera]
